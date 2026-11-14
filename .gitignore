@@ -12,10 +12,8 @@ build-manifest.json
 dist/
 build/
 
-# WebCopy diagnostics & heavy media dumps
+# WebCopy diagnostics
 webcopy-origin.txt
-cdn/shop/files/
-zerolifestyle-co/
 
 # Environment variables
 .env
