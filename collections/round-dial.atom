@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://zerolifestyle.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://zerolifestyle.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://zerolifestyle.co/collections/round-dial.atom"/>
+  <title>ZeroLifestyle.co</title>
+  <updated>2026-04-06T12:47:36+05:00</updated>
+  <author>
+    <name>ZeroLifestyle.co</name>
+  </author>
+  <entry>
+    <id>https://zerolifestyle.co/products/8957936075030</id>
+    <published>2026-04-06T12:47:36+05:00</published>
+    <updated>2026-04-06T12:47:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/luna-smart-watch"/>
+    <title>Luna Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Luna-_5_3.webp?v=1776510284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            4999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Switch towards infinite possibilities with the Luna Smartwatch, styled through a cosmic full metal body with a 1.39” HD Display and IP67 Water Resistance. With a fully functioning AI Assistant, Luna keeps you connected at every moment. Strap into the future of smartwatches with Active Weather Forecasting, BT Calling, and sleek strap designs.</p>
+<h2>Features of Luna:</h2>
+<p>1.39” HD Display<br>IP67 Water Resistance<br>Active Weather Forecasting<br>BT Calling<br>Smart Notifications<br>Active Health Suites<br>Workout Modes</p>
+<h2>Specifications of Luna:</h2>
+<ul>
+<li>
+<strong>Display</strong>: Full-color touch screen</li>
+<li>
+<strong>Health Tracking</strong>: Heart rate monitor, sleep analysis</li>
+<li>
+<strong>Activity Tracking</strong>: Steps, calories, various exercise modes</li>
+<li>
+<strong>Connectivity</strong>: Smart notifications for calls, texts, and social media</li>
+<li>
+<strong>Battery Life</strong>: Long-lasting, multi-day battery life on a single charge</li>
+<li>
+<strong>Customization</strong>: Multiple customizable watch faces</li>
+</ul>
+<h2>Do you have any ongoing sales?</h2>
+<p>Yes! Take advantage of our <a href="https://zerolifestyle.co/pages/11-11-sale">11.11 Sale</a> for exclusive discounts on <a href="https://zerolifestyle.co/pages/smart-watches">smartwatches</a> and earbuds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Funday Sale</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>luna</s:tag>
+    <s:tag>Monsoon 1000</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>Summer 1000</s:tag>
+    <s:tag>Summer 2000</s:tag>
+    <s:tag>Summer 500</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Black</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>20081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Gray</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>20080</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Black Gold</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>20084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Pink Gold</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>20077</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Blue</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>20680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Sporty Gray Rings</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>22477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Sporty Red Rings</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>22479</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10107920711958</id>
+    <published>2026-04-06T12:47:23+05:00</published>
+    <updated>2026-04-06T12:47:23+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/luna-pro"/>
+    <title>Luna Pro</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/BLACKWATCHFACE.webp?v=1755331884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            6499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Luna Pro Smartwatch</strong></h3>
+<p>The Luna Pro Smartwatch blends modern design with powerful health and lifestyle features, delivering a premium experience for everyday life. With advanced sensors, fitness tracking, and a customizable interface, Luna Pro keeps you connected, informed, and in control—wherever your day takes you.</p>
+<hr>
+<h3><strong>Features of the Product</strong></h3>
+<p>⌚ <strong>Premium Build Quality</strong> – Zinc alloy middle frame with PC plastic bottom case and anti-static z<span>inc alloy frame</span>.</p>
+<p>🖥 <strong>Vibrant Display</strong> – 1.38-inch TFT round screen with 240×240 resolution and full-screen touch support.</p>
+<p>🔋 <strong>Reliable Battery Life</strong> – 220 mAh polymer battery provides <strong>5–7 days of regular use</strong> and <strong>10–15 days standby</strong>.</p>
+<p>⚡ <strong>Fast Charging</strong> – Fully charges in <strong>2.5–3 hours</strong> via magnetic USB cable.</p>
+<p>📱 <strong>Seamless Connectivity</strong> – Bluetooth 5.3 with call support, notifications, music control, and remote camera function.</p>
+<p>❤️ <strong>Comprehensive Health Tracking</strong> –</p>
+<ul>
+<li>
+<p>Heart Rate Monitoring (LC09 Sensor)</p>
+</li>
+<li>
+<p>Blood Oxygen (SpO2)</p>
+</li>
+<li>
+<p>Blood Pressure Tracking</p>
+</li>
+<li>
+<p>Sleep Monitoring (22:00–8:00)</p>
+</li>
+<li>
+<p>Breathing Exercises</p>
+</li>
+</ul>
+<p>🏃 <strong>Fitness &amp; Sports Modes</strong> – Supports walking, running, cycling, skipping rope, basketball, soccer, badminton, and swimming, with GPS motion tracking via the <strong>DaFit app</strong>.</p>
+<p>🎨 <strong>Customizable Watch Faces</strong> – 4 pre-installed dials, 1 DIY custom face, and more available in the watch face market.</p>
+<p>🧠 <strong>Smart Assistant &amp; Tools</strong> – AI voice assistant, alarm, calculator, stopwatch, weather updates, sedentary and drink reminders, and more.</p>
+<p>💧 <strong>Waterproof Design</strong> – <strong>IP68 water resistance</strong>, making it safe for daily use and light water exposure.</p>
+<hr>
+<h3><strong>Specifications of Product</strong></h3>
+<ul>
+<li>
+<p><strong>Material:</strong> Zinc alloy frame + PC bottom + silicone strap</p>
+</li>
+<li>
+<p><strong>Display:</strong> 1.38-inch TFT, 240×240 resolution, full-touch screen</p>
+</li>
+<li>
+<p><strong>Chipset:</strong> JIELI 7012F6</p>
+</li>
+<li>
+<p><strong>Memory:</strong> RAM 640 KB / ROM 64 MB</p>
+</li>
+<li>
+<p><strong>Sensors:</strong> LC09 heart rate sensor, Minghao DA267 G-sensor</p>
+</li>
+<li>
+<p><strong>Battery:</strong> 220 mAh polymer battery (5–7 days use, 10–15 days standby)</p>
+</li>
+<li>
+<p><strong>Charging:</strong> 2.5–3 hours magnetic charging</p>
+</li>
+<li>
+<p><strong>Bluetooth:</strong> 5.3, supports calls, music control, notifications</p>
+</li>
+<li>
+<p><strong>Sports Modes:</strong> Walking, running, cycling, skipping rope, basketball, soccer, badminton, swimming</p>
+</li>
+<li>
+<p><strong>App:</strong> DaFit (Android 5.0 + / iOS 9.0 +)</p>
+</li>
+<li>
+<p><strong>Water Resistance:</strong> IP68</p>
+</li>
+<li>
+<p><strong>Extra Features:</strong> AI voice assistant, remote camera, DIY watch face, split‑screen, built‑in game, OTA updates</p>
+</li>
+</ul>
+<hr>
+<h3><strong>Why Choose Luna Pro Smartwatch?</strong></h3>
+<p>The Luna Pro Smartwatch is designed for users who demand performance, style, and versatility. From <strong>health monitoring</strong> to <strong>smartphone connectivity</strong>, it combines everyday convenience with fitness intelligence. With customizable watch faces, extended battery life, and IP68 water resistance, Luna Pro is more than a smartwatch—it’s your all‑day companion for work, workouts, and everything in between.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>compare</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>Luna Pro</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>Monsoon 1000</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>Productivity</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>Summer 1000</s:tag>
+    <s:tag>Summer 2000</s:tag>
+    <s:tag>Summer 500</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10107920711958</id>
+      <title>Black</title>
+      <s:price currency="PKR">6499.00</s:price>
+      <s:sku>23118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10107920711958</id>
+      <title>Silver</title>
+      <s:price currency="PKR">6499.00</s:price>
+      <s:sku>23120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10142308434198</id>
+    <published>2025-08-25T12:45:04+05:00</published>
+    <updated>2025-08-25T12:45:04+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/lunar-360-smartwatch"/>
+    <title>Lunar 360 Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/lunar_Brown-Leather_1.webp?v=1756987036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            13999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Lunar 360 Smartwatch</h2>
+<p>The <strong>Lunar 360 Smartwatch</strong> combines cutting-edge technology with a sleek modern design, giving you the ultimate balance of style, performance, and wellness. With its high-resolution AMOLED display, extended battery life, and advanced health monitoring, Lunar 360 is built to keep up with your lifestyle—day and night.<br><br></p>
+<hr>
+<h2>
+<br>Features of the Product</h2>
+<p>⌚ <strong>Premium Build Quality</strong> – Zinc alloy electroplated middle frame, stainless steel dual buttons, and ABS+PC bottom shell with leather-TPU strap.</p>
+<p>🖥 <strong>Brilliant AMOLED Display</strong> – 1.43-inch AMOLED round screen with 466×466 resolution and full-screen touch functionality.</p>
+<p>🔋 <strong>Powerful Battery Performance</strong> – 300 mAh polymer lithium battery offering:</p>
+<ul>
+<li>
+<p>10 days of typical use</p>
+</li>
+<li>
+<p>30 days standby</p>
+</li>
+<li>
+<p>3 days in AOD (Always-On Display) mode</p>
+</li>
+</ul>
+<p>⚡ <strong>Magnetic Fast Charging</strong> – Convenient magnetic charging method for quick and reliable power-ups.</p>
+<p>📱 <strong>Advanced Connectivity</strong> – Bluetooth 5.3 with call support, music control, notifications, and remote camera functionality.</p>
+<p>❤️ <strong>Comprehensive Health Tracking</strong> –</p>
+<ul>
+<li>
+<p>Heart Rate Monitoring (VC30F-S Sensor)</p>
+</li>
+<li>
+<p>Blood Oxygen (SpO2)</p>
+</li>
+<li>
+<p>Sleep Monitoring</p>
+</li>
+<li>
+<p>Breathing Exercises</p>
+</li>
+</ul>
+<p>🏃 <strong>Fitness &amp; Sports Modes</strong> – Multiple sport profiles supported, including running, cycling, walking, and more, with motion tracking.</p>
+<p>🎨 <strong>Customizable Watch Faces</strong> – AMOLED display supports vibrant pre-installed dials and downloadable options via companion app.</p>
+<p>🧠 <strong>Smart Tools &amp; Assistance</strong> – Voice assistant, weather, calendar, alarm, stopwatch, timer, calculator, world clock, sedentary &amp; drink reminders.</p>
+<p>💧 <strong>Waterproof Design</strong> – IP67 water resistance ensures safety in daily use and light water exposure.<br><br></p>
+<hr>
+<h2>
+<br>Specifications of Product</h2>
+<ul>
+<li>
+<p><strong>Material:</strong> Zinc alloy middle frame, stainless steel buttons, ABS+PC bottom shell, leather+TPU strap</p>
+</li>
+<li>
+<p><strong>Display:</strong> 1.43-inch AMOLED, 466×466 resolution, full-touch screen</p>
+</li>
+<li>
+<p><strong>Chipset:</strong> RTL8773EWE-VP</p>
+</li>
+<li>
+<p><strong>Memory:</strong> SRAM 560 KB, PSRAM 4 MB</p>
+</li>
+<li>
+<p><strong>Flash:</strong> 128 Mbit</p>
+</li>
+<li>
+<p><strong>Sensors:</strong> VC30F-S heart rate &amp; SpO₂ sensor, STK8321 G-sensor</p>
+</li>
+<li>
+<p><strong>Battery:</strong> 300 mAh polymer lithium (10 days use, 30 days standby, 3 days AOD mode)</p>
+</li>
+<li>
+<p><strong>Charging:</strong> Magnetic charging</p>
+</li>
+<li>
+<p><strong>Bluetooth:</strong> 5.3 (with call support, notifications, music, and more)</p>
+</li>
+<li>
+<p><strong>Weight:</strong> 65 g</p>
+</li>
+<li>
+<p><strong>Dimensions:</strong> 53.2 × 46.5 × 12.8 mm</p>
+</li>
+<li>
+<p><strong>Water Resistance:</strong> IP67</p>
+</li>
+<li>
+<p><strong>Extras:</strong> Voice assistant, remote camera, breathing exercises, business card holder, OTA software updates<br><br></p>
+</li>
+</ul>
+<hr>
+<h2>
+<br>Why Choose Lunar 360 Smartwatch?</h2>
+<p>The Lunar 360 <a href="https://zerolifestyle.co/pages/smart-watches">Smart watch</a> is more than just a wearable—it’s a complete lifestyle companion. Whether you want to stay on top of your health, boost your productivity, or enjoy seamless connectivity, Lunar 360 delivers it all in a stylish, durable package. With its AMOLED display, customizable watch faces, long battery life, and IP67 water resistance, it’s built for those who demand performance, sophistication, and reliability every day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>lunar</s:tag>
+    <s:tag>platinum series products</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>Vision 2026</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10142308434198</id>
+      <title>Brown Leather</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>23159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10142308434198</id>
+      <title>Black Gold Silicone</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>23162</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10142308434198</id>
+      <title>Blue Silicone</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>23161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10142308434198</id>
+      <title>Blue Leather</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>23157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10142308434198</id>
+      <title>Green Leather</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>23160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10142308434198</id>
+      <title>Grey Silver Silicone</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>23164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10142308434198</id>
+      <title>Green Silicone</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>23165</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10142308434198</id>
+      <title>Black Silicone</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>23163</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10142308434198</id>
+      <title>Black Leather</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>23158</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10063563882774</id>
+    <published>2025-07-03T15:53:26+05:00</published>
+    <updated>2025-07-03T15:53:26+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/legacy-smartwatch"/>
+    <title>Legacy Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/GoldBlack_2.webp?v=1765658265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            13999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-end="453" data-start="119"><strong data-end="140" data-start="119">Legacy Smartwatch</strong></h2>
+<p data-end="453" data-start="119"><br data-end="143" data-start="140">The Legacy Smartwatch combines modern utility with timeless design, engineered to elevate your everyday life. From powerful health tracking features to customizable aesthetics, this smartwatch is built for users who demand performance, comfort, and a touch of class — whether at work, in the gym, or on the go.</p>
+<h3 data-end="483" data-start="460">Features of the Product</h3>
+<ul data-end="1608" data-start="485">
+<li data-end="586" data-start="485">
+<p data-end="586" data-start="487"><strong data-end="514" data-start="487">Refined &amp; Robust Design</strong>: 44mm zinc alloy + plastic case, 56g weight with IP67 water resistance.</p>
+</li>
+<li data-end="698" data-start="587">
+<p data-end="698" data-start="589"><strong data-end="615" data-start="589">Vibrant AMOLED Display</strong>: Sharp visuals on a 1.39" screen with brightness adjustment and always-on support.</p>
+</li>
+<li data-end="800" data-start="699">
+<p data-end="800" data-start="701"><strong data-end="729" data-start="701">Long Battery Performance</strong>: 5–7 days of regular use, 25–30 days standby with a quick 2-hour charge.</p>
+</li>
+<li data-end="1025" data-start="801">
+<p data-end="839" data-start="803"><strong data-end="838" data-start="803">Comprehensive Health Monitoring</strong>:</p>
+<ul data-end="1025" data-start="842">
+<li data-end="867" data-start="842">
+<p data-end="867" data-start="844">Heart Rate Monitoring</p>
+</li>
+<li data-end="897" data-start="870">
+<p data-end="897" data-start="872">Blood Pressure Tracking</p>
+</li>
+<li data-end="925" data-start="900">
+<p data-end="925" data-start="902">SpO2 Level Monitoring</p>
+</li>
+<li data-end="946" data-start="928">
+<p data-end="946" data-start="930">Sleep Tracking</p>
+</li>
+<li data-end="977" data-start="949">
+<p data-end="977" data-start="951">Menstrual Cycle Tracking</p>
+</li>
+<li data-end="1003" data-start="980">
+<p data-end="1003" data-start="982">Breathing Exercises</p>
+</li>
+<li data-end="1025" data-start="1006">
+<p data-end="1025" data-start="1008">Calorie Tracker</p>
+</li>
+</ul>
+</li>
+<li data-end="1113" data-start="1026">
+<p data-end="1113" data-start="1028"><strong data-end="1049" data-start="1028">120+ Sports Modes</strong>: Covers activities from running and cycling to yoga and beyond.</p>
+</li>
+<li data-end="1215" data-start="1114">
+<p data-end="1215" data-start="1116"><strong data-end="1139" data-start="1116">Smart Notifications</strong>: Stay updated with call alerts, messages, reminders, and app notifications.</p>
+</li>
+<li data-end="1308" data-start="1216">
+<p data-end="1308" data-start="1218"><strong data-end="1249" data-start="1218">Voice Assistant Integration</strong>: Compatible with voice assistants for hands-free commands.</p>
+</li>
+<li data-end="1406" data-start="1309">
+<p data-end="1406" data-start="1311"><strong data-end="1338" data-start="1311">Interactive Watch Faces</strong>: 13 dynamic faces, including 6 animated and full DIY customization.</p>
+</li>
+<li data-end="1478" data-start="1407">
+<p data-end="1478" data-start="1409"><strong data-end="1435" data-start="1409">Entertainment on Wrist</strong>: 1 built-in game ("Plane") for quick play.</p>
+</li>
+<li data-end="1608" data-start="1479">
+<p data-end="1608" data-start="1481"><strong data-end="1501" data-start="1481">Daily Essentials</strong>: Alarm, weather, flashlight, calculator, sedentary reminder, drink water prompt, camera control, and more.</p>
+</li>
+</ul>
+<h3 data-end="1644" data-start="1615">Specifications of Product</h3>
+<ul data-end="2296" data-start="1646">
+<li data-end="1701" data-start="1646">
+<p data-end="1701" data-start="1648"><strong data-end="1659" data-start="1648">Display</strong>: AMOLED, 1.39-inch, brightness adjustable</p>
+</li>
+<li data-end="1741" data-start="1702">
+<p data-end="1741" data-start="1704"><strong data-end="1715" data-start="1704">Battery</strong>: 400mAh lithium battery</p>
+</li>
+<li data-end="1798" data-start="1742">
+<p data-end="1798" data-start="1744"><strong data-end="1758" data-start="1744">Usage Time</strong>: 5–7 days regular, 25–30 days standby</p>
+</li>
+<li data-end="1845" data-start="1799">
+<p data-end="1845" data-start="1801"><strong data-end="1813" data-start="1801">Charging</strong>: 2 hours via magnetic suction</p>
+</li>
+<li data-end="1932" data-start="1846">
+<p data-end="1932" data-start="1848"><strong data-end="1859" data-start="1848">Sensors</strong>: Heart rate (HRS3605), SpO2, Blood pressure, Accelerometer (LIS2DOCTR)</p>
+</li>
+<li data-end="1980" data-start="1933">
+<p data-end="1980" data-start="1935"><strong data-end="1951" data-start="1935">Sports Modes</strong>: 120+ activities supported</p>
+</li>
+<li data-end="2067" data-start="1981">
+<p data-end="2067" data-start="1983"><strong data-end="1999" data-start="1983">Connectivity</strong>: Bluetooth 5.2, 20m range, supports calls, contacts, call records</p>
+</li>
+<li data-end="2126" data-start="2068">
+<p data-end="2126" data-start="2070"><strong data-end="2089" data-start="2070">Voice Assistant</strong>: Google Assistant, Siri compatible</p>
+</li>
+<li data-end="2152" data-start="2127">
+<p data-end="2152" data-start="2129"><strong data-end="2138" data-start="2129">Games</strong>: 1 built-in</p>
+</li>
+<li data-end="2265" data-start="2153">
+<p data-end="2265" data-start="2155"><strong data-end="2170" data-start="2155">Other Tools</strong>: Flashlight, alarm, weather, calculator, camera control, DND mode, motion gesture activation</p>
+</li>
+<li data-end="2296" data-start="2266">
+<p data-end="2296" data-start="2268"><strong data-end="2288" data-start="2268">Water Resistance</strong>: IP67</p>
+</li>
+</ul>
+<h3 data-end="2340" data-start="2303">Why Choose the Legacy Smartwatch?</h3>
+<p data-end="2688" data-start="2342">The Legacy <a href="https://zerolifestyle.co/pages/smart-watches">Smartwatch </a>is more than just a wearable — it’s a lifestyle upgrade. Designed with precision, equipped with cutting-edge features, and built to last, it’s the perfect companion for health tracking, productivity, and staying connected. Whether you're chasing goals or winding down, Legacy adapts to your day — strong, smart, and stylish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>legacy</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>platinum series products</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>Vision 2026</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10063563882774</id>
+      <title>Gold Black</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>20778</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10063563882774</id>
+      <title>Black Gold</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>20779</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10063563882774</id>
+      <title>Silver Blue</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>22173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9406685085974</id>
+    <published>2025-06-28T18:52:11+05:00</published>
+    <updated>2025-06-28T18:52:11+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/vision-smartwatch"/>
+    <title>Vision Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/vision_Black_1.webp?v=1771398223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            9499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Vision Smartwatch Product Description</h2>
+<p>Experience the perfect blend of innovation and style with the Vision Smartwatch. Designed for your busy lifestyle, this smartwatch keeps you connected and efficient throughout the day.</p>
+<p>With advanced technology and a sleek look, the Vision <a href="https://zerolifestyle.co/pages/smart-watches">Smartwatch in Pakistan</a> offers both practicality and elegance in one wearable device.</p>
+<h2>Features of Vision Smartwatch</h2>
+<p>The Vision Smartwatch boasts an impressive suite of features designed to keep you at the top of your game.</p>
+<p>Stay healthy with comprehensive fitness tracking, including heart rate monitoring, sleep analysis, and multi-sport modes.</p>
+<p>Stay connected effortlessly with smart notifications for calls, messages, and apps right on your wrist.</p>
+<p>Its high-definition display ensures clarity and vibrancy, while the robust battery life keeps you powered for days.</p>
+<p>Customizable watch faces and straps let you personalize your smartwatch to suit any look, whether you're at the gym or a formal event.</p>
+<h2>Specifications of Vision Smartwatch</h2>
+<p>Display: 1.3-inch AMOLED full touch screen</p>
+<p>Resolution: 360 x 360 pixels</p>
+<p>Sensors: Heart rate monitor, SpO2 monitor, accelerometer</p>
+<p>Compatibility: iOS and Android</p>
+<p>Strap Material: Silicone (interchangeable)</p>
+<p>Dimensions: 45 x 38 x 11 mm</p>
+<p>Connectivity: Bluetooth 5.0</p>
+<p>Battery Life: Up to 10 days</p>
+<p>Water Resistance: IP67 rating</p>
+<p>Weight: 42g</p>
+<h2>Why Choose the Vision SmartWatch?</h2>
+<p>Choosing the Vision Smartwatch means opting for a device that enhances your life in every possible way.</p>
+<p>With its advanced features, high-quality construction, and stylish design, this smartwatch is a standout in its category.</p>
+<p>It not only helps you manage your health and stay connected but also complements your fashion sense.</p>
+<p>Our dedicated customer support ensures a seamless experience from purchase to everyday use, providing peace of mind with every wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>secret</s:tag>
+    <s:tag>secret-500</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9406685085974</id>
+      <title>Black</title>
+      <s:price currency="PKR">9499.00</s:price>
+      <s:sku>20147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9406685085974</id>
+      <title>Gray Silver</title>
+      <s:price currency="PKR">9499.00</s:price>
+      <s:sku>20148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9406685085974</id>
+      <title>Blue Silver</title>
+      <s:price currency="PKR">9499.00</s:price>
+      <s:sku>20151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9406685085974</id>
+      <title>Black Gold</title>
+      <s:price currency="PKR">9499.00</s:price>
+      <s:sku>20150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9406685085974</id>
+      <title>Beige Gold</title>
+      <s:price currency="PKR">9499.00</s:price>
+      <s:sku>20149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9985435992342</id>
+    <published>2025-05-26T15:00:33+05:00</published>
+    <updated>2025-05-26T15:00:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/orbit-2"/>
+    <title>Orbit 2 Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/silver_4_35749c97-d365-44fc-aa24-b7b94532fa1a.webp?v=1776755793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            6999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-end="159" data-start="117">Orbit 2 Smartwatch by Zero Lifestyle</h3>
+<h4 data-end="187" data-start="161">Features of Product</h4>
+<p data-end="361" data-start="189"><strong data-end="217" data-start="189">Sleek and Durable Design</strong><br data-end="220" data-start="217">The Orbit 2 Smartwatch is crafted to match both style and function, featuring a 1.38-inch round TFT screen with a sharp 240×240 resolution.</p>
+<ul data-end="705" data-start="362">
+<li data-end="495" data-start="362">
+<p data-end="495" data-start="364"><strong data-end="382" data-start="364">Premium Build:</strong> Zinc alloy middle frame, PC plastic bottom case, and anti-static silicone strap ensure durability and comfort.</p>
+</li>
+<li data-end="577" data-start="496">
+<p data-end="577" data-start="498"><strong data-end="521" data-start="498">Compact Dimensions:</strong> Designed for a perfect wrist fit without adding bulk.</p>
+</li>
+<li data-end="705" data-start="578">
+<p data-end="705" data-start="580"><strong data-end="606" data-start="580">IP68 Water Resistance:</strong> Withstands daily splashes, sweat, and rain, making it ideal for workouts and outdoor adventures.</p>
+</li>
+</ul>
+<p data-end="820" data-start="712"><strong data-end="753" data-start="712">Powerful Battery &amp; Efficient Charging</strong><br data-end="756" data-start="753">Stay powered through busy days with a reliable battery system.</p>
+<ul data-end="1063" data-start="821">
+<li data-end="897" data-start="821">
+<p data-end="897" data-start="823"><strong data-end="840" data-start="823">Extended Use:</strong> 5–7 days of working time and up to 15 days on standby.</p>
+</li>
+<li data-end="956" data-start="898">
+<p data-end="956" data-start="900"><strong data-end="919" data-start="900">Quick Recharge:</strong> Fully charges in just 2.5–3 hours.</p>
+</li>
+<li data-end="1063" data-start="957">
+<p data-end="1063" data-start="959"><strong data-end="980" data-start="959">Reliable Battery:</strong> 220mAh polymer battery with Seiko board protection for long-lasting performance.</p>
+</li>
+</ul>
+<p data-end="1182" data-start="1070"><strong data-end="1104" data-start="1070">Seamless Wireless Connectivity</strong><br data-end="1107" data-start="1104">Enjoy smooth pairing and stable connections for all your smart functions.</p>
+<ul data-end="1435" data-start="1183">
+<li data-end="1271" data-start="1183">
+<p data-end="1271" data-start="1185"><strong data-end="1214" data-start="1185">Latest Bluetooth Version:</strong> Equipped with BLE 5.3 for fast, reliable transmission.</p>
+</li>
+<li data-end="1335" data-start="1272">
+<p data-end="1335" data-start="1274"><strong data-end="1293" data-start="1274">Generous Range:</strong> Maintains connectivity up to 10 meters.</p>
+</li>
+<li data-end="1435" data-start="1336">
+<p data-end="1435" data-start="1338"><strong data-end="1362" data-start="1338">Smart Notifications:</strong> Stay on top of calls, messages, and app alerts directly on your wrist.</p>
+</li>
+</ul>
+<p data-end="1551" data-start="1442"><strong data-end="1480" data-start="1442">Advanced Health &amp; Fitness Tracking</strong><br data-end="1483" data-start="1480">Take charge of your health with comprehensive monitoring features.</p>
+<ul data-end="1956" data-start="1552">
+<li data-end="1595" data-start="1552">
+<p data-end="1595" data-start="1554"><strong data-end="1593" data-start="1554">Heart Rate Monitoring (LC09 Sensor)</strong></p>
+</li>
+<li data-end="1649" data-start="1596">
+<p data-end="1649" data-start="1598"><strong data-end="1647" data-start="1598">Blood Oxygen (SpO₂) &amp; Blood Pressure Tracking</strong></p>
+</li>
+<li data-end="1688" data-start="1650">
+<p data-end="1688" data-start="1652"><strong data-end="1686" data-start="1652">Sleep Monitoring (22:00–08:00)</strong></p>
+</li>
+<li data-end="1730" data-start="1689">
+<p data-end="1730" data-start="1691"><strong data-end="1728" data-start="1691">Breath Training &amp; Stress Function</strong></p>
+</li>
+<li data-end="1791" data-start="1731">
+<p data-end="1791" data-start="1733"><strong data-end="1789" data-start="1733">Pedometer, Calories, Sedentary &amp; Hydration Reminders</strong></p>
+</li>
+<li data-end="1872" data-start="1792">
+<p data-end="1872" data-start="1794"><strong data-end="1813" data-start="1794">8 Sports Modes:</strong> Including walking, running, cycling, swimming, and more.</p>
+</li>
+<li data-end="1956" data-start="1873">
+<p data-end="1956" data-start="1875"><strong data-end="1899" data-start="1875">GPS Motion Tracking:</strong> Via connected mobile app for precise activity mapping.</p>
+</li>
+</ul>
+<p data-end="2054" data-start="1963"><strong data-end="1997" data-start="1963">Smart Controls &amp; Customization</strong><br data-end="2000" data-start="1997">Packed with features that make everyday life easier.</p>
+<ul data-end="2419" data-start="2055">
+<li data-end="2105" data-start="2055">
+<p data-end="2105" data-start="2057"><strong data-end="2103" data-start="2057">Bluetooth Phone Calls &amp; AI Voice Assistant</strong></p>
+</li>
+<li data-end="2136" data-start="2106">
+<p data-end="2136" data-start="2108"><strong data-end="2134" data-start="2108">Camera &amp; Music Control</strong></p>
+</li>
+<li data-end="2183" data-start="2137">
+<p data-end="2183" data-start="2139"><strong data-end="2181" data-start="2139">Weather Forecast (Today + Next 6 Days)</strong></p>
+</li>
+<li data-end="2244" data-start="2184">
+<p data-end="2244" data-start="2186"><strong data-end="2205" data-start="2186">DIY Watch Face:</strong> Customize with your favorite photos.</p>
+</li>
+<li data-end="2305" data-start="2245">
+<p data-end="2305" data-start="2247"><strong data-end="2303" data-start="2247">Stopwatch, Countdown Timer, Calculator, Split Screen</strong></p>
+</li>
+<li data-end="2392" data-start="2306">
+<p data-end="2392" data-start="2308"><strong data-end="2335" data-start="2308">Multi-Language Support:</strong> Including Arabic, German, Japanese, Chinese, and more.</p>
+</li>
+<li data-end="2419" data-start="2393">
+<p data-end="2419" data-start="2395"><strong data-end="2417" data-start="2395">Fun Gaming Feature</strong></p>
+</li>
+</ul>
+<h4 data-end="2458" data-start="2426">Specifications of Product</h4>
+<ul data-end="2671" data-start="2459">
+<li data-end="2505" data-start="2459">
+<p data-end="2505" data-start="2461"><strong data-end="2473" data-start="2461">Display:</strong> 1.38" TFT, 240×240 resolution</p>
+</li>
+<li data-end="2545" data-start="2506">
+<p data-end="2545" data-start="2508"><strong data-end="2520" data-start="2508">Battery:</strong> 220mAh polymer battery</p>
+</li>
+<li data-end="2580" data-start="2546">
+<p data-end="2580" data-start="2548"><strong data-end="2566" data-start="2548">Charging Time:</strong> 2.5–3 hours</p>
+</li>
+<li data-end="2607" data-start="2581">
+<p data-end="2607" data-start="2583"><strong data-end="2597" data-start="2583">Bluetooth:</strong> BLE 5.3</p>
+</li>
+<li data-end="2638" data-start="2608">
+<p data-end="2638" data-start="2610"><strong data-end="2631" data-start="2610">Water Resistance:</strong> IP68</p>
+</li>
+<li data-end="2671" data-start="2639">
+<p data-end="2671" data-start="2641"><strong data-end="2658" data-start="2641">Sports Modes:</strong> 8 built-in</p>
+</li>
+</ul>
+<h4 data-end="2701" data-start="2678">Package Includes</h4>
+<ul data-end="2759" data-start="2702">
+<li data-end="2724" data-start="2702">
+<p data-end="2724" data-start="2704">Orbit 2 Smartwatch</p>
+</li>
+<li data-end="2743" data-start="2725">
+<p data-end="2743" data-start="2727">Charging Cable</p>
+</li>
+<li data-end="2759" data-start="2744">
+<p data-end="2759" data-start="2746">User Manual</p>
+</li>
+</ul>
+<h3 data-end="2806" data-start="2766">Why Choose the Orbit 2 Smartwatch?</h3>
+<p data-end="3082" data-start="2807">Designed for modern, active lifestyles, the Orbit 2 <a href="https://zerolifestyle.co/pages/smart-watches">Smartwatches by Zero Lifestyle</a> blends advanced health monitoring, smart connectivity, and rugged durability. Whether you’re working out, staying productive, or just staying connected, the Orbit 2 is built to elevate your day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Funday Sale</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>limited</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>orbit-2</s:tag>
+    <s:tag>Productivity</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Gray Silver</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>23116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Black</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>22808</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Coffee</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>23108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Black Gold</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>23110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Marsala Gold</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>23112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Pink Golden</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>23114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9923380248854</id>
+    <published>2025-04-15T18:59:18+05:00</published>
+    <updated>2025-04-15T18:59:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/jewel-smartwatch"/>
+    <title>Jewel Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Jewel_1_57b8f293-03c2-46be-9f76-79cf4af38c09.webp?v=1773449006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            11999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Jewel Smartwatch</h1>
+<h2>Features of Product</h2>
+<h3>Stylish and Durable Design</h3>
+<p>Exquisitely engineered with a robust Zinc alloy shell combined with PC and ABS elements. Available in two variants—Jewel (with a lightweight profile of 30g/44g strap options) and Jewel SE (83g with a premium steel band)—this smartwatch is built to complement your style without weighing you down.</p>
+<h3>Vivid AMOLED Display</h3>
+<p>Enjoy a 1.1-inch AMOLED screen with a crisp 360×360 resolution that delivers vibrant visuals and excellent clarity for day-to-day interactions.</p>
+<h3>Reliable Battery Performance</h3>
+<p>Powered by a polymer battery (230mAh), the Jewel <a href="https://zerolifestyle.co/pages/smart-watches">Smartwatch </a>offers 5–7 days of active use alongside up to 20 days on standby. A swift charge in just 2 hours gets you back on track without missing a beat.</p>
+<h2>Health and Fitness Tracking</h2>
+<ul>
+<li>Heart Rate Monitoring</li>
+<li>Blood Pressure Monitoring</li>
+<li>SpO2 Measurement</li>
+<li>Sleep Tracking</li>
+<li>Breathe Training</li>
+<li>Menstrual Cycle Tracking</li>
+<li>Calories Consumption Tracking</li>
+</ul>
+<h2>Stay Connected</h2>
+<p>Effortlessly manage calls, notifications, and alerts directly from your wrist. With seamless contact synchronization, call records, and split-screen functionalities, the Jewel Smartwatch ensures you never miss an important moment.</p>
+<h2>Everyday Tools</h2>
+<p>Customize your experience using over 300 cloud-based watch faces—with 5 built-in options and DIY support—and choose from 110+ sports modes (8 built-in). Additional smart tools include voice assistant support through Google Assistant and Siri, camera control for capturing life’s moments, weather updates, alarms, calculator, LCD brightness adjustments, theater/DND mode, motion gesture activation, and essential reminders for sedentary behavior and hydration.</p>
+<h2>Specifications of Product</h2>
+<ul>
+<li>Display: 1.1-inch AMOLED screen with 360×360 resolution.</li>
+<li>Battery Life: 5–7 days of active use, 20 days on standby.</li>
+<li>Charging Time: 2 hours.</li>
+<li>Water Resistance: IP67 rating for dependable durability.</li>
+<li>Operating System: Compatible with Android 5.0+ and iOS 10+ (supporting Bluetooth 4.0).</li>
+<li>Bluetooth Version: BLE 5.0 with a 10-meter transmission range.</li>
+</ul>
+<h2>Why Choose the Jewel Smartwatch?</h2>
+<p>The Jewel Smartwatch offers an extraordinary blend of aesthetics, functionality, and smart connectivity. Whether you choose the classic Jewel or the premium Jewel SE, its refined design, comprehensive health tracking, and plethora of everyday tools ensure that you remain connected and in control—no matter if you’re working out, working hard, or winding down at the end of the day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jewel</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>platinum series products</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9923380248854</id>
+      <title>Golden Milannese</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>22900</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9923380248854</id>
+      <title>Gold Metal</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>22902</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9923380248854</id>
+      <title>Silver Metal</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>22910</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9923380248854</id>
+      <title>Pink Leather</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>22906</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9923380248854</id>
+      <title>Pearl White Leather</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>22904</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9923380248854</id>
+      <title>Silver Milannese</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>22908</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9923380248854</id>
+      <title>Black Milannese</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>22896</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9923380248854</id>
+      <title>Black Metal</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>22898</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/8405397930262</id>
+    <published>2025-03-08T15:57:42+05:00</published>
+    <updated>2025-03-08T15:57:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/armour-smart-watch"/>
+    <title>Zero Armour Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/PSD01_02.webp?v=1742630454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            8499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With Armour, experience a new world of exceptional visuals that makes everything clearer. 1.32” of LCD display and 500 nits brightness that truly transforms your <a href="https://zerolifestyle.co/pages/smart-watches">smartwatch </a>experience.<br data-mce-fragment="1"><br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>armour</s:tag>
+    <s:tag>army</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>secret</s:tag>
+    <s:tag>secret-500</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>Smart Watch Price in Pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8405397930262</id>
+      <title>Camou Grey</title>
+      <s:price currency="PKR">8499.00</s:price>
+      <s:sku>23122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8405397930262</id>
+      <title>Blue</title>
+      <s:price currency="PKR">8499.00</s:price>
+      <s:sku>23024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8405397930262</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">8499.00</s:price>
+      <s:sku>18971</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8405397930262</id>
+      <title>Teal Green</title>
+      <s:price currency="PKR">8499.00</s:price>
+      <s:sku>18972</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8405397930262</id>
+      <title>Misty Gray</title>
+      <s:price currency="PKR">8499.00</s:price>
+      <s:sku>18973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/8415419662614</id>
+    <published>2025-02-12T12:37:01+05:00</published>
+    <updated>2025-02-12T12:37:01+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/orbit-smart-watch"/>
+    <title>Orbit Smart Watch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/products/e5f5dew.png?v=1690663665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            7999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Zero Orbit smartwatch is your for-life companions. They’re techy, aesthetically alluring, and functionally on-spot! All the basic smartphone functionality is always tied around your wrist, and to make it even better.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8415419662614</id>
+      <title>BLUE</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>18931</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8415419662614</id>
+      <title>GOLD BLACK</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>18933</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8415419662614</id>
+      <title>BLACK SPORTY RED RINGS</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>18930</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8415419662614</id>
+      <title>BLACK SPORTY GRAY RINGS</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>18932</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9848099242262</id>
+    <published>2025-01-31T12:35:55+05:00</published>
+    <updated>2025-01-31T12:35:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/regal-smartwatch"/>
+    <title>Regal AI Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/CopperSilver_1.webp?v=1756127463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            18499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Regal Smartwatch is an elegant fusion of style and innovation. Its sleek, modern design and durable construction make it a versatile accessory for any occasion, whether you're at work, out casually, or hitting the gym.</p>
+<h2>Features of Product</h2>
+<ul>
+<li>
+<strong>Stylish and Durable Design:</strong> Sleek, modern finish with sturdy construction.</li>
+<li>
+<strong>Vivid AMOLED Display:</strong> 1.19-inch screen with customizable menu views.</li>
+<li>
+<strong>Long-Lasting Battery Life:</strong> 5–7 days of regular use and up to 25–30 days on standby. Quick 2-hour charging.</li>
+<li>
+<strong>Health and Fitness Tracking:</strong>
+<ul>
+<li>Heart Rate Monitoring</li>
+<li>Blood Pressure Tracking</li>
+<li>SpO2 Level Measurement</li>
+<li>Sleep Tracking</li>
+<li>Stress Management Tools</li>
+<li>Menstrual Cycle Tracking</li>
+</ul>
+</li>
+<li>
+<strong>107 Sports Modes:</strong> Tracks performance across various activities including running, cycling, and yoga.</li>
+<li>
+<strong>Stay Connected:</strong> Handle calls, messages, and notifications from your wrist.</li>
+<li>
+<strong>Voice Assistant Compatibility:</strong> Interact with Google Assistant or Siri.</li>
+<li>
+<strong>Built-In Entertainment:</strong> Includes 4 fun games like Flappy Bird and 2048.</li>
+<li>
+<strong>Everyday Tools:</strong> Alarms, weather updates, flashlight, and calculator.</li>
+</ul>
+<h2>Specifications of Product</h2>
+<ul>
+<li>
+<strong>Display:</strong> 1.19-inch AMOLED screen.</li>
+<li>
+<strong>Battery Life:</strong> 5–7 days of regular use, 25–30 days on standby.</li>
+<li>
+<strong>Charging Time:</strong> 2 hours.</li>
+<li>
+<strong>Health Features:</strong> Heart rate monitor, blood pressure tracker, SpO2 level measurement, sleep tracking, stress management, menstrual cycle tracking.</li>
+<li>
+<strong>Sports Modes:</strong> 107 modes including running, cycling, yoga.</li>
+<li>
+<strong>Connectivity:</strong> Calls, messages, notifications, music playback, call records, find phone.</li>
+<li>
+<strong>Voice Assistant:</strong> Google Assistant, Siri.</li>
+<li>
+<strong>Games:</strong> 4 built-in games.</li>
+<li>
+<strong>Additional Tools:</strong> Alarms, weather updates, flashlight, calculator.</li>
+</ul>
+<h2>Why Choose the Regal Smartwatch?</h2>
+<p>The Regal <a href="https://zerolifestyle.co/pages/smart-watches">Smartwatch </a>is the perfect blend of sophistication and smart innovation. With its stylish design, comprehensive health tracking features, and a suite of practical and entertainment tools, it seamlessly fits into your daily life. Whether you're focused on fitness, staying organized, or just having some fun, the Regal Smartwatch is your ideal companion, ready to step into the future with you!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>Influencer Video</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>Monsoon 1000</s:tag>
+    <s:tag>platinum series products</s:tag>
+    <s:tag>secret</s:tag>
+    <s:tag>secret-500</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>vision-2025</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9848099242262</id>
+      <title>Copper Silver</title>
+      <s:price currency="PKR">18499.00</s:price>
+      <s:sku>22552</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9848099242262</id>
+      <title>Obsidian Gold</title>
+      <s:price currency="PKR">18499.00</s:price>
+      <s:sku>22554</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9848099242262</id>
+      <title>Rose Gold</title>
+      <s:price currency="PKR">18499.00</s:price>
+      <s:sku>22550</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9848099242262</id>
+      <title>Aqua Silver</title>
+      <s:price currency="PKR">18499.00</s:price>
+      <s:sku>22556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9848099242262</id>
+      <title>Emerald Silver</title>
+      <s:price currency="PKR">18499.00</s:price>
+      <s:sku>22558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9848099242262</id>
+      <title>Racing Red Silver</title>
+      <s:price currency="PKR">18499.00</s:price>
+      <s:sku>22548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/8707477045526</id>
+    <published>2024-08-12T14:03:30+05:00</published>
+    <updated>2024-08-12T14:03:30+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/revolt-smart-watch"/>
+    <title>Revoltt Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/RevoltGolden01.webp?v=1736870078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            11999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into luxury with Revoltt Smart Watch: Sleek Stainless Steel, Durable Metallic Body, &amp; Advanced Health Suite. Premium tech for your elite lifestyle!</p>
+<h2>Revolt Smartwatch Product Description</h2>
+<p>The Revolt Smartwatch is designed for those who demand cutting-edge technology and sleek design in their wearable devices.</p>
+<p>This <a href="https://zerolifestyle.co/pages/smart-watches">smartwatch </a>is your ultimate tool for staying connected, tracking your health, and boosting your daily productivity. Whether you're in a meeting, at the gym, or out with friends, the Revolt Smartwatch fits effortlessly into your routine.</p>
+<h2>Features of Revolt Smartwatch</h2>
+<p>The Revolt Smartwatch comes with a robust set of features to keep you ahead. Track your fitness with precision using its advanced sensors for heart rate monitoring, sleep analysis, and various sports modes.</p>
+<p>Stay updated with smart notifications for calls, texts, and apps, all visible on a clear, high-resolution display. The long-lasting battery ensures you’re always ready for action, and with customizable watch faces and interchangeable straps, you can easily match your watch to your outfit and mood.</p>
+<h2>Specifications of Revolt Smartwatch</h2>
+<p>Display: 1.4-inch AMOLED full touch screen</p>
+<p>Resolution: 400 x 400 pixels</p>
+<p>Sensors: Heart rate monitor, SpO2 monitor, accelerometer, gyroscope</p>
+<p>Compatibility: iOS and Android</p>
+<p>Strap Material: Silicone (interchangeable)</p>
+<p>Dimensions: 47 x 39 x 11 mm</p>
+<p>Connectivity: Bluetooth 5.0</p>
+<p>Battery Life: Up to 10 days</p>
+<p>Water Resistance: IP68 rating</p>
+<p>Weight: 42g</p>
+<h2>Why Choose the Revolt SmartWatch?</h2>
+<p>Choosing the Luna Smartwatch means embracing a device that enhances your life with its high-end features and stylish design. Its comprehensive health tracking, seamless connectivity, and customizable appearance make it a standout choice in the smartwatch market. Plus, our dedicated customer support ensures you have a smooth experience from purchase to everyday use.</p>
+<h2>Do you have any ongoing sales?</h2>
+<p>Yes! Take advantage of our <a href="https://zerolifestyle.co/pages/11-11-sale">11.11 Sale</a> for exclusive discounts on smartwatches and earbuds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>platinum series products</s:tag>
+    <s:tag>revoltt</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Summer 2000</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8707477045526</id>
+      <title>Gun Metal</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>19819</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8707477045526</id>
+      <title>Silver</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>19820</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8707477045526</id>
+      <title>Gold</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>19818</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8707477045526</id>
+      <title>Blue</title>
+      <s:price currency="PKR">11999.00</s:price>
+      <s:sku>22463</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9418904338710</id>
+    <published>2024-07-27T17:01:58+05:00</published>
+    <updated>2024-07-27T17:01:58+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/vogue-smartwatch"/>
+    <title>Vogue Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Vogue_Silver_0000.webp?v=1742632877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            14999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Vogue Smart Watch Description!</h2>
+<p>The Vogue Smartwatch from ZeroLifestyle is a perfect blend of style, functionality, and durability. Designed for fitness enthusiasts and busy professionals alike, this smartwatch offers a plethora of features to keep you connected and on top of your health goals.</p>
+<h2>Features of Vogue Smartwatch</h2>
+<p>The Vogue <a href="https://zerolifestyle.co/pages/smart-watches">Smartwatch </a>comes with a vivid full-color touch display that remains clear even under bright sunlight.</p>
+<p>Its comfortable, lightweight strap ensures it can be worn all day. Key features include continuous heart rate monitoring, sleep analysis, and tracking for various activities like walking, running, and cycling.</p>
+<p>It also includes a step counter and calorie tracker, helping you stay on top of your fitness goals. Smart notifications allow you to receive calls, texts, and social media alerts directly on your wrist, ensuring you never miss an important message.</p>
+<h2>Specifications of Vogue Smartwatch</h2>
+<ul>
+<li>Display: Full-color touch screen</li>
+<li>Health Tracking: Heart rate monitor, sleep analysis</li>
+<li>Activity Tracking: Steps, calories, various exercise modes</li>
+<li>Connectivity: Smart notifications for calls, texts, and social media</li>
+<li>Battery Life: Multi-day battery life</li>
+<li>Water Resistance: Suitable for intense workouts</li>
+<li>Customization: Multiple watch faces</li>
+</ul>
+<h2>Do you have any ongoing sales?</h2>
+<p>Yes! Take advantage of our <a href="https://zerolifestyle.co/pages/11-11-sale">11.11 Sale</a> for exclusive discounts on smartwatches and earbuds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>Influencer Video</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>platinum series products</s:tag>
+    <s:tag>premium-card</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9418904338710</id>
+      <title>Silver</title>
+      <s:price currency="PKR">14999.00</s:price>
+      <s:sku>20684</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9418904338710</id>
+      <title>Black</title>
+      <s:price currency="PKR">14999.00</s:price>
+      <s:sku>20683</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9418904338710</id>
+      <title>Gold Blue</title>
+      <s:price currency="PKR">14999.00</s:price>
+      <s:sku>20685</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9418904338710</id>
+      <title>Black Gold</title>
+      <s:price currency="PKR">14999.00</s:price>
+      <s:sku>20687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9418904338710</id>
+      <title>Gold Black</title>
+      <s:price currency="PKR">14999.00</s:price>
+      <s:sku>20686</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9614704443670</id>
+    <published>2024-07-27T17:01:28+05:00</published>
+    <updated>2024-07-27T17:01:28+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/royale-smartwatch"/>
+    <title>Royale Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Royale_Black_0000_4bb22ca9-fa60-4044-8cc1-fbf9e718b57a.webp?v=1725970013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            13999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Royale Smart Watch Description!</h2>
+<p>The Royale Smartwatch from ZeroLifestyle is a perfect blend of style, functionality, and durability. Designed for fitness enthusiasts and busy professionals alike, this smartwatch offers a plethora of features to keep you connected and on top of your health goals.</p>
+<h2>Features of Royale Smartwatch</h2>
+<p>The Royale <a href="https://zerolifestyle.co/pages/smart-watches">Smart watch in Pakistan</a> comes with a vivid full-color touch display that remains clear even under bright sunlight.</p>
+<p>Its comfortable, lightweight strap ensures it can be worn all day. Key features include continuous heart rate monitoring, sleep analysis, and tracking for various activities like walking, running, and cycling.</p>
+<p>It also includes a step counter and calorie tracker, helping you stay on top of your fitness goals. Smart notifications allow you to receive calls, texts, and social media alerts directly on your wrist, ensuring you never miss an important message.</p>
+<h2>Specifications of Royale Smartwatch</h2>
+<p>Display: Full-color touch screen</p>
+<p>Health Tracking: Heart rate monitor, sleep analysis</p>
+<p>Activity Tracking: Steps, calories, various exercise modes</p>
+<p>Connectivity: Smart notifications for calls, texts, and social media</p>
+<p>Battery Life: Multi-day battery life</p>
+<p>Water Resistance: Suitable for intense workouts</p>
+<p>Customization: Multiple watch faces</p>
+<h2>Why Choose the Royale Smartwatch</h2>
+<p>The Royale Smartwatch offers comprehensive tracking features to provide valuable insights into your daily activities and sleep patterns.</p>
+<p>This enables you to make informed decisions about your health. Its ability to receive notifications directly on your wrist ensures continuous connectivity.</p>
+<p>With its sleek design and customizable watch faces, the Royale Smartwatch is a versatile accessory for any occasion.</p>
+<h2>Do you have any ongoing sales?</h2>
+<p>Yes! Take advantage of our <a href="https://zerolifestyle.co/pages/11-11-sale">11.11 Sale</a> for exclusive discounts on smartwatches and earbuds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>Influencer Video</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>premium-card</s:tag>
+    <s:tag>royale</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9614704443670</id>
+      <title>Titanium Silver</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>20689</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9614704443670</id>
+      <title>Golden Metal</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>20690</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9614704443670</id>
+      <title>Black Strap</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>20942</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9614704443670</id>
+      <title>Blue Strap</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>20943</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9614704443670</id>
+      <title>Black Metal</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>20688</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9037782712598</id>
+    <published>2024-07-08T13:04:50+05:00</published>
+    <updated>2024-07-08T13:04:50+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/nova-smart-watch"/>
+    <title>Nova Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Dark-Black.webp?v=1705740899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            6999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Nova Smartwatch Product Description</h2>
+<p>Upgrade your tech with the Nova Smartwatch, where innovation meets elegance. Make your daily routine more productive and stylish with a smartwatch designed to keep pace with your life. Order your Nova Smartwatch today and embrace the perfect blend of technology and fashion.</p>
+<h2>Features of Nova Smartwatch</h2>
+<p>The Nova Smartwatch is equipped with a range of features to keep you on track and connected. Its advanced fitness tracking includes heart rate monitoring, sleep analysis, and various sports modes.</p>
+<p>Stay updated with smart notifications for calls, messages, and social media alerts, all displayed on a vibrant, high-resolution screen. The long-lasting battery ensures you stay powered throughout your day, and customizable watch faces and interchangeable straps let you personalize your look.</p>
+<h2>Specifications of Nova Smartwatch</h2>
+<p>Display: 1.3-inch TFT full touch screen</p>
+<p>Resolution: 360 x 360 pixels</p>
+<p>Sensors: Heart rate monitor, SpO2 monitor, accelerometer, gyroscope</p>
+<p>Compatibility: iOS and Android</p>
+<p>Strap Material: Silicone (interchangeable)</p>
+<p>Dimensions: 45 x 38 x 10 mm</p>
+<p>Connectivity: Bluetooth 5.0</p>
+<p>Battery Life: Up to 7 days</p>
+<p>Water Resistance: IP68 rating</p>
+<p>Weight: 40g</p>
+<h2>Why Choose the Nova SmartWatch?</h2>
+<p>Opting for the Nova Smartwatch means choosing a device that enhances your life with its advanced features and stylish design. Its comprehensive health tracking, seamless connectivity, and elegant appearance make it a top choice. Plus, with our dedicated customer support, you can enjoy a hassle-free experience from purchase to daily use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>Funday Sale</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9037782712598</id>
+      <title>Black</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>20096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9037782712598</id>
+      <title>Golden</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>20101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9037782712598</id>
+      <title>Blue</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>20097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9037782712598</id>
+      <title>Nova Gray</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>20100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9037782712598</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>20103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9037782712598</id>
+      <title>Rainbow</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>20093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9513929900310</id>
+    <published>2024-05-29T20:50:40+05:00</published>
+    <updated>2024-05-29T20:50:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/pixel-smartwatch"/>
+    <title>Pixel Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/3_1_-1.png?v=1717406207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            7999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Pixel Smartwatch Product Description</h2>
+<p>Meet the Pixel Smartwatch, the ultimate fusion of technology and style, designed to simplify and enhance your everyday life.</p>
+<p>Perfect for those who demand both functionality and elegance in their wearable tech, the Pixel Smartwatch offers a seamless user experience with its intuitive features and sophisticated design.</p>
+<h2>Features of Pixel Smartwatch</h2>
+<p>The Pixel Smartwatch is packed with features to help you stay on top of your health and connected to what matters most.</p>
+<p>Monitor your fitness with advanced tracking capabilities, including heart rate monitoring, sleep analysis, and multiple sports modes. Stay updated with smart notifications for calls, texts, and apps, all accessible from your wrist.</p>
+<p>Stay connected effortlessly with smart notifications for calls, messages, and apps right on your wrist.</p>
+<p>Its vibrant, high-resolution display ensures everything is crystal clear, while the long-lasting battery keeps you powered through your day. With customizable watch faces and interchangeable straps, you can personalize your Pixel Smartwatch to match any outfit or occasion.</p>
+<h2>Specifications of Pixel Smartwatch</h2>
+<p>Display: 1.4-inch AMOLED full touch screen</p>
+<p>Resolution: 360 x 360 pixels</p>
+<p>Sensors: Heart rate monitor, SpO2 monitor, accelerometer, gyroscope</p>
+<p>Compatibility: iOS and Android</p>
+<p>Strap Material: Silicone (interchangeable)</p>
+<p>Dimensions: 46 x 38 x 11 mm</p>
+<p>Connectivity: Bluetooth 5.0</p>
+<p>Battery Life: Up to 7 days</p>
+<p>Water Resistance: IP68 rating</p>
+<p>Weight: 40g</p>
+<h2>Why Choose the Pixel SmartWatch?</h2>
+<p>Choosing the Pixel Smartwatch means opting for a device that seamlessly integrates into your life. Its comprehensive features, high-quality build, and stylish design make it a standout choice.</p>
+<p>Whether you're tracking your fitness, staying connected, or simply enhancing your style, the Pixel Smartwatch delivers. Plus, our dedicated customer support ensures you have a smooth experience from purchase to everyday use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9513929900310</id>
+      <title>Rainbow Gold</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>20449</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9513929900310</id>
+      <title>Golden</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>20153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9513929900310</id>
+      <title>Silver</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>20154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9513929900310</id>
+      <title>Black</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>20152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9023797854486</id>
+    <published>2024-01-02T15:27:07+05:00</published>
+    <updated>2024-01-02T15:27:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/matrix-smart-watch"/>
+    <title>Matrix Pro AMOLED Smart Watch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/ProBlackTopviewwithstrapwithoutBG.webp?v=1706183349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            12999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Upgrade your lifestyle to the MAX with Matrix Smart Watch having a premium AMOLED Display, Pakistan's first Stainless-Steel Strap &amp; a Functional Crown.</p>
+<h2>Matrix Pro Smartwatch Product Description</h2>
+<p>The Matrix smartwatch is your ideal companion for staying connected, monitoring your health, and enhancing your daily activities. Whether you're at the office, the gym, or out on the town, the Matrix Smartwatch fits seamlessly into your lifestyle.</p>
+<p>With advanced technology and a sleek look, the Vision Smartwatch offers both practicality and elegance in one wearable device.</p>
+<h2>Features of Matrix Pro Smartwatch</h2>
+<p>The Matrix Smartwatch is equipped with a range of features to keep you on track and connected. Its advanced fitness tracking includes heart rate monitoring, sleep analysis, and various sports modes.</p>
+<p>Stay updated with smart notifications for calls, messages, and social media alerts, all displayed on a vibrant, high-resolution screen. The long-lasting battery ensures you stay powered throughout your day, and customizable watch faces and interchangeable straps let you personalize your look.</p>
+<h2>Specifications of Matrix Pro Smartwatch</h2>
+<p>Display: 1.3-inch AMOLED full touch screen</p>
+<p>Resolution: 360 x 360 pixels</p>
+<p>Sensors: Heart rate monitor, SpO2 monitor, accelerometer</p>
+<p>Compatibility: iOS and Android</p>
+<p>Strap Material: Silicone (interchangeable)</p>
+<p>Dimensions: 45 x 38 x 10 mm</p>
+<p>Connectivity: Bluetooth 5.0</p>
+<p>Battery Life: Up to 8 days</p>
+<p>Water Resistance: IP67 rating</p>
+<p>Weight: 42g</p>
+<h2>Why Choose the Matrix Pro SmartWatch?</h2>
+<p>Opting for the Matrix Smartwatch means choosing a device that enhances your life with its advanced features and stylish design. Its comprehensive health tracking, seamless connectivity, and elegant appearance make it a top choice. Plus, with our dedicated customer support, you can enjoy a hassle-free experience from purchase to daily use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9023797854486</id>
+      <title>Forest Green</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>20140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9023797854486</id>
+      <title>Gold</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>20138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9023797854486</id>
+      <title>Misty Grey</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>20139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9023797854486</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>20135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9023797854486</id>
+      <title>Silver</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>20137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9023797854486</id>
+      <title>Black</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>20136</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

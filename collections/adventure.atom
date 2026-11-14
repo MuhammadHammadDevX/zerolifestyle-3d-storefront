@@ -1,0 +1,3306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://zerolifestyle.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://zerolifestyle.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://zerolifestyle.co/collections/adventure.atom"/>
+  <title>ZeroLifestyle.co</title>
+  <updated>2026-04-16T04:20:06+05:00</updated>
+  <author>
+    <name>ZeroLifestyle.co</name>
+  </author>
+  <entry>
+    <id>https://zerolifestyle.co/products/10476918538518</id>
+    <published>2026-04-16T04:20:06+05:00</published>
+    <updated>2026-04-16T04:20:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/flow-earbuds"/>
+    <title>Flow Zbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/01_8ae65121-2039-4166-8b07-11512d29eacd.webp?v=1776250201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            4499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="138" data-end="356">The ZERO Flow Earbuds are built for seamless audio, everyday comfort, and effortless connectivity. Designed for modern lifestyles, they deliver powerful sound, smart controls, and all-day convenience in a compact form.</p>
+<h3 data-section-id="1sboupi" data-start="363" data-end="381">Key Features</h3>
+<ul data-start="383" data-end="1131">
+<li data-section-id="17djwzr" data-start="383" data-end="462">
+<strong data-start="385" data-end="410">Premium Sound Quality</strong> – Crisp audio with deep bass and balanced clarity</li>
+<li data-section-id="1f21ur0" data-start="463" data-end="548">
+<strong data-start="465" data-end="484">Noise Reduction</strong> – Reduces background noise for better focus and clearer calls</li>
+<li data-section-id="1hwist3" data-start="549" data-end="632">
+<strong data-start="551" data-end="577">Bluetooth Connectivity</strong> – Fast, stable, and instant pairing with all devices</li>
+<li data-section-id="1h7h2r3" data-start="633" data-end="711">
+<strong data-start="635" data-end="653">Touch Controls</strong> – Control music, calls, and functions with a simple tap</li>
+<li data-section-id="f7ntnc" data-start="712" data-end="784">
+<strong data-start="714" data-end="737">Built-in Microphone</strong> – Clear voice quality for calls and meetings</li>
+<li data-section-id="1sz22y3" data-start="785" data-end="854">
+<strong data-start="787" data-end="809">Single &amp; Dual Mode</strong> – Use one or both earbuds as per your need</li>
+<li data-section-id="g5zfhw" data-start="855" data-end="929">
+<strong data-start="857" data-end="874">Ergonomic Fit</strong> – Comfortable and secure for long listening sessions</li>
+<li data-section-id="1jsvptw" data-start="930" data-end="997">
+<strong data-start="932" data-end="958">Sweat-Resistant Design</strong> – Perfect for workouts and daily use</li>
+<li data-section-id="1v9qucm" data-start="998" data-end="1062">
+<strong data-start="1000" data-end="1026">Portable Charging Case</strong> – Easy charging anytime, anywhere</li>
+<li data-section-id="11djg2n" data-start="1063" data-end="1131">
+<strong data-start="1065" data-end="1086">Long Battery Life</strong> – Extended usage with charging case backup</li>
+</ul>
+<h3 data-section-id="1hz4s1p" data-start="1138" data-end="1162">Additional Details</h3>
+<ul data-start="1164" data-end="1344">
+<li data-section-id="9741mt" data-start="1164" data-end="1196">Compact &amp; lightweight design</li>
+<li data-section-id="1kbxqf4" data-start="1197" data-end="1233">Auto-connect after first pairing</li>
+<li data-section-id="ttuwac" data-start="1234" data-end="1290">Compatible with Android, iOS &amp; all Bluetooth devices</li>
+<li data-section-id="zb1b6u" data-start="1291" data-end="1318">Charging cable included</li>
+<li data-section-id="ugwij" data-start="1319" data-end="1344">Easy to use interface</li>
+</ul>
+<p data-start="1351" data-end="1472">The ZERO Flow Earbuds combine performance, comfort, and convenience — making them the perfect everyday audio companion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>compare</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>flow</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>Vision 2026</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10476918538518</id>
+      <title>Flame Black</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>24419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10476918538518</id>
+      <title>Black Gray</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>24422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10476918538518</id>
+      <title>Pearl White</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>24423</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10476918538518</id>
+      <title>Blue Black</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>24421</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10476918538518</id>
+      <title>Green Black</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>24420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/8957936075030</id>
+    <published>2026-04-06T12:47:36+05:00</published>
+    <updated>2026-04-06T12:47:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/luna-smart-watch"/>
+    <title>Luna Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Luna-_5_3.webp?v=1776510284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            4999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Switch towards infinite possibilities with the Luna Smartwatch, styled through a cosmic full metal body with a 1.39” HD Display and IP67 Water Resistance. With a fully functioning AI Assistant, Luna keeps you connected at every moment. Strap into the future of smartwatches with Active Weather Forecasting, BT Calling, and sleek strap designs.</p>
+<h2>Features of Luna:</h2>
+<p>1.39” HD Display<br>IP67 Water Resistance<br>Active Weather Forecasting<br>BT Calling<br>Smart Notifications<br>Active Health Suites<br>Workout Modes</p>
+<h2>Specifications of Luna:</h2>
+<ul>
+<li>
+<strong>Display</strong>: Full-color touch screen</li>
+<li>
+<strong>Health Tracking</strong>: Heart rate monitor, sleep analysis</li>
+<li>
+<strong>Activity Tracking</strong>: Steps, calories, various exercise modes</li>
+<li>
+<strong>Connectivity</strong>: Smart notifications for calls, texts, and social media</li>
+<li>
+<strong>Battery Life</strong>: Long-lasting, multi-day battery life on a single charge</li>
+<li>
+<strong>Customization</strong>: Multiple customizable watch faces</li>
+</ul>
+<h2>Do you have any ongoing sales?</h2>
+<p>Yes! Take advantage of our <a href="https://zerolifestyle.co/pages/11-11-sale">11.11 Sale</a> for exclusive discounts on <a href="https://zerolifestyle.co/pages/smart-watches">smartwatches</a> and earbuds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Funday Sale</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>luna</s:tag>
+    <s:tag>Monsoon 1000</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>Summer 1000</s:tag>
+    <s:tag>Summer 2000</s:tag>
+    <s:tag>Summer 500</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Black</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>20081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Gray</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>20080</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Black Gold</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>20084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Pink Gold</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>20077</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Blue</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>20680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Sporty Gray Rings</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>22477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8957936075030</id>
+      <title>Sporty Red Rings</title>
+      <s:price currency="PKR">4999.00</s:price>
+      <s:sku>22479</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10107920711958</id>
+    <published>2026-04-06T12:47:23+05:00</published>
+    <updated>2026-04-06T12:47:23+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/luna-pro"/>
+    <title>Luna Pro</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/BLACKWATCHFACE.webp?v=1755331884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            6499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Luna Pro Smartwatch</strong></h3>
+<p>The Luna Pro Smartwatch blends modern design with powerful health and lifestyle features, delivering a premium experience for everyday life. With advanced sensors, fitness tracking, and a customizable interface, Luna Pro keeps you connected, informed, and in control—wherever your day takes you.</p>
+<hr>
+<h3><strong>Features of the Product</strong></h3>
+<p>⌚ <strong>Premium Build Quality</strong> – Zinc alloy middle frame with PC plastic bottom case and anti-static z<span>inc alloy frame</span>.</p>
+<p>🖥 <strong>Vibrant Display</strong> – 1.38-inch TFT round screen with 240×240 resolution and full-screen touch support.</p>
+<p>🔋 <strong>Reliable Battery Life</strong> – 220 mAh polymer battery provides <strong>5–7 days of regular use</strong> and <strong>10–15 days standby</strong>.</p>
+<p>⚡ <strong>Fast Charging</strong> – Fully charges in <strong>2.5–3 hours</strong> via magnetic USB cable.</p>
+<p>📱 <strong>Seamless Connectivity</strong> – Bluetooth 5.3 with call support, notifications, music control, and remote camera function.</p>
+<p>❤️ <strong>Comprehensive Health Tracking</strong> –</p>
+<ul>
+<li>
+<p>Heart Rate Monitoring (LC09 Sensor)</p>
+</li>
+<li>
+<p>Blood Oxygen (SpO2)</p>
+</li>
+<li>
+<p>Blood Pressure Tracking</p>
+</li>
+<li>
+<p>Sleep Monitoring (22:00–8:00)</p>
+</li>
+<li>
+<p>Breathing Exercises</p>
+</li>
+</ul>
+<p>🏃 <strong>Fitness &amp; Sports Modes</strong> – Supports walking, running, cycling, skipping rope, basketball, soccer, badminton, and swimming, with GPS motion tracking via the <strong>DaFit app</strong>.</p>
+<p>🎨 <strong>Customizable Watch Faces</strong> – 4 pre-installed dials, 1 DIY custom face, and more available in the watch face market.</p>
+<p>🧠 <strong>Smart Assistant &amp; Tools</strong> – AI voice assistant, alarm, calculator, stopwatch, weather updates, sedentary and drink reminders, and more.</p>
+<p>💧 <strong>Waterproof Design</strong> – <strong>IP68 water resistance</strong>, making it safe for daily use and light water exposure.</p>
+<hr>
+<h3><strong>Specifications of Product</strong></h3>
+<ul>
+<li>
+<p><strong>Material:</strong> Zinc alloy frame + PC bottom + silicone strap</p>
+</li>
+<li>
+<p><strong>Display:</strong> 1.38-inch TFT, 240×240 resolution, full-touch screen</p>
+</li>
+<li>
+<p><strong>Chipset:</strong> JIELI 7012F6</p>
+</li>
+<li>
+<p><strong>Memory:</strong> RAM 640 KB / ROM 64 MB</p>
+</li>
+<li>
+<p><strong>Sensors:</strong> LC09 heart rate sensor, Minghao DA267 G-sensor</p>
+</li>
+<li>
+<p><strong>Battery:</strong> 220 mAh polymer battery (5–7 days use, 10–15 days standby)</p>
+</li>
+<li>
+<p><strong>Charging:</strong> 2.5–3 hours magnetic charging</p>
+</li>
+<li>
+<p><strong>Bluetooth:</strong> 5.3, supports calls, music control, notifications</p>
+</li>
+<li>
+<p><strong>Sports Modes:</strong> Walking, running, cycling, skipping rope, basketball, soccer, badminton, swimming</p>
+</li>
+<li>
+<p><strong>App:</strong> DaFit (Android 5.0 + / iOS 9.0 +)</p>
+</li>
+<li>
+<p><strong>Water Resistance:</strong> IP68</p>
+</li>
+<li>
+<p><strong>Extra Features:</strong> AI voice assistant, remote camera, DIY watch face, split‑screen, built‑in game, OTA updates</p>
+</li>
+</ul>
+<hr>
+<h3><strong>Why Choose Luna Pro Smartwatch?</strong></h3>
+<p>The Luna Pro Smartwatch is designed for users who demand performance, style, and versatility. From <strong>health monitoring</strong> to <strong>smartphone connectivity</strong>, it combines everyday convenience with fitness intelligence. With customizable watch faces, extended battery life, and IP68 water resistance, Luna Pro is more than a smartwatch—it’s your all‑day companion for work, workouts, and everything in between.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>compare</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>Luna Pro</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>Monsoon 1000</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>Productivity</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>Summer 1000</s:tag>
+    <s:tag>Summer 2000</s:tag>
+    <s:tag>Summer 500</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10107920711958</id>
+      <title>Black</title>
+      <s:price currency="PKR">6499.00</s:price>
+      <s:sku>23118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10107920711958</id>
+      <title>Silver</title>
+      <s:price currency="PKR">6499.00</s:price>
+      <s:sku>23120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10446838399254</id>
+    <published>2026-03-20T17:52:56+05:00</published>
+    <updated>2026-03-20T17:52:56+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/rover-elite-earbuds"/>
+    <title>Rover Elite Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Rover-blackk-3.webp?v=1774434409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Rover Elite Earbuds – Power Meets Performance</h2>
+<p>Experience high-quality sound, stable connectivity, and long-lasting battery life with the Rover Elite Earbuds. Built for everyday use, these earbuds offer a perfect balance of performance and comfort.</p>
+<h3>Sound Quality</h3>
+<p>Enjoy clear audio with deep bass and balanced output. With SBC and AAC support, the Rover Elite Earbuds deliver a smooth listening experience for music, calls, and videos.</p>
+<h3>Battery Life</h3>
+<p>The earbuds provide up to 7 hours of playtime on a single charge, with a total of up to 35 hours using the charging case. Fast charging ensures the earbuds are ready in about 45 minutes, while the case takes around 1.5 hours.</p>
+<h3>Connectivity</h3>
+<p>Equipped with Bluetooth 5.4, the Rover Elite Earbuds ensure a stable and fast connection with a range of over 10 meters. It also supports quick pairing and smooth device switching.</p>
+<h3>Low Latency Mode</h3>
+<p>With 60ms low latency, these earbuds are suitable for gaming and video streaming, keeping audio in sync with visuals.</p>
+<h3>Call Quality</h3>
+<p>Dual microphones with ENC noise reduction help reduce background noise, providing clear voice calls in different environments.</p>
+<h3>Water Resistance</h3>
+<p>IPX4 rating makes the earbuds resistant to sweat and light splashes, making them suitable for workouts and outdoor use.</p>
+<h3>Controls</h3>
+<p>Touch controls allow you to manage music, calls, volume, and voice assistants like Siri or Google Assistant easily.</p>
+<h3>Design</h3>
+<p>The earbuds feature a lightweight and ergonomic design for comfortable long-term use. Available in Beige, Blue, Green, and Black.</p>
+<h3>Box Contents</h3>
+<ul>
+<li>
+<p>Left and right earbuds</p>
+</li>
+<li>
+<p>Charging cable</p>
+</li>
+<li>
+<p>User manual</p>
+</li>
+<li>
+<p>Warranty card</p>
+</li>
+</ul>
+<h3>Key Features</h3>
+<ul>
+<li>
+<p>Up to 35 hours total battery life</p>
+</li>
+<li>
+<p>Bluetooth 5.4 connectivity</p>
+</li>
+<li>
+<p>Low latency for gaming</p>
+</li>
+<li>
+<p>ENC for clear calls</p>
+</li>
+<li>
+<p>Comfortable and minimal design</p>
+</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10446838399254</id>
+      <title>Shadow Black</title>
+      <s:price currency="PKR">3999.00</s:price>
+      <s:sku>24341</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10446838399254</id>
+      <title>Moss Green</title>
+      <s:price currency="PKR">3999.00</s:price>
+      <s:sku>24340</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10446838399254</id>
+      <title>Ivory Beige</title>
+      <s:price currency="PKR">3999.00</s:price>
+      <s:sku>24339</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10446838399254</id>
+      <title>Arctic Sky</title>
+      <s:price currency="PKR">3999.00</s:price>
+      <s:sku>23887</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10421921513750</id>
+    <published>2026-02-28T18:13:16+05:00</published>
+    <updated>2026-02-28T18:13:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/bolt-pro"/>
+    <title>Bolt Pro Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Bolt_Black-1.webp?v=1775288200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-end="200" data-start="160">Bolt Pro Smartwatch – Product Description</h2>
+<p data-start="104" data-end="348">The ZERO BOLT PRO is a sleek and feature-rich smartwatch designed for everyday fitness, connectivity, and convenience. With its modern square dial and vibrant display, it delivers both style and smart functionality in one powerful wearable.</p>
+<h3 data-start="350" data-end="366">Key Features</h3>
+<ul data-start="368" data-end="1365">
+<li data-start="368" data-end="451">
+<p data-start="370" data-end="451"><strong data-start="370" data-end="394">1.83" IPS HD Display</strong> – Large, bright screen for clear and immersive viewing</p>
+</li>
+<li data-start="452" data-end="539">
+<p data-start="454" data-end="539"><strong data-start="454" data-end="487">Single Chip Bluetooth Calling</strong> – Make and receive calls directly from your watch</p>
+</li>
+<li data-start="540" data-end="611">
+<p data-start="542" data-end="611"><strong data-start="542" data-end="562">100+ Watch Faces</strong> – Personalize your display to match your style</p>
+</li>
+<li data-start="612" data-end="685">
+<p data-start="614" data-end="685"><strong data-start="614" data-end="635">100+ Sports Modes</strong> – Track a wide range of workouts and activities</p>
+</li>
+<li data-start="686" data-end="750">
+<p data-start="688" data-end="750"><strong data-start="688" data-end="721">Dynamic Heart Rate Monitoring</strong> – Real-time heart tracking</p>
+</li>
+<li data-start="751" data-end="804">
+<p data-start="753" data-end="804"><strong data-start="753" data-end="772">SpO₂ Monitoring</strong> – Monitor blood oxygen levels</p>
+</li>
+<li data-start="805" data-end="878">
+<p data-start="807" data-end="878"><strong data-start="807" data-end="831">IP66 Water Resistant</strong> – Protection against dust and water splashes</p>
+</li>
+<li data-start="879" data-end="955">
+<p data-start="881" data-end="955"><strong data-start="881" data-end="915">Qibla Direction &amp; Prayer Times</strong> – Built-in Islamic lifestyle features</p>
+</li>
+<li data-start="956" data-end="1007">
+<p data-start="958" data-end="1007"><strong data-start="958" data-end="976">Tasbih Counter</strong> – Convenient digital counter</p>
+</li>
+<li data-start="1008" data-end="1075">
+<p data-start="1010" data-end="1075"><strong data-start="1010" data-end="1033">Smart Notifications</strong> – Receive call, message, and app alerts</p>
+</li>
+<li data-start="1076" data-end="1129">
+<p data-start="1078" data-end="1129"><strong data-start="1078" data-end="1095">Sync Contacts</strong> – Easy access to saved contacts</p>
+</li>
+<li data-start="1130" data-end="1182">
+<p data-start="1132" data-end="1182"><strong data-start="1132" data-end="1159">Voice Assistant Support</strong> – Hands-free control</p>
+</li>
+<li data-start="1183" data-end="1231">
+<p data-start="1185" data-end="1231"><strong data-start="1185" data-end="1203">Built-in Games</strong> – On-the-go entertainment</p>
+</li>
+<li data-start="1232" data-end="1289">
+<p data-start="1234" data-end="1289"><strong data-start="1234" data-end="1262">Alarm, Timer &amp; Stopwatch</strong> – Everyday utility tools</p>
+</li>
+<li data-start="1290" data-end="1365">
+<p data-start="1292" data-end="1365"><strong data-start="1292" data-end="1321">Up to 5 Days Battery Life</strong> – Reliable performance on a single charge</p>
+</li>
+</ul>
+<h3 data-start="1367" data-end="1389">Additional Details</h3>
+<ul data-start="1391" data-end="1555">
+<li data-start="1391" data-end="1417">
+<p data-start="1393" data-end="1417">3D Colorful Dynamic UI</p>
+</li>
+<li data-start="1418" data-end="1439">
+<p data-start="1420" data-end="1439">365 Days Warranty</p>
+</li>
+<li data-start="1440" data-end="1518">
+<p data-start="1442" data-end="1518">Compatible with the ZERO Health app (available on App Store &amp; Google Play)</p>
+</li>
+<li data-start="1519" data-end="1555">
+<p data-start="1521" data-end="1555">Magnetic charging cable included</p>
+</li>
+</ul>
+<p data-start="1557" data-end="1734" data-is-last-node="" data-is-only-node="">The ZERO BOLT PRO combines fitness tracking, smart connectivity, and practical lifestyle tools making it ideal for daily wear, workouts, and staying connected anytime, anywhere.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>bolt-pro</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>Qube</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10421921513750</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23892</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10421921513750</id>
+      <title>Vintage brown</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>24132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10421921513750</id>
+      <title>Graphite Mauve</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>24136</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10421921513750</id>
+      <title>Midnight Blue</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23813</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10421921513750</id>
+      <title>Pearl Grey</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>24134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10418358845718</id>
+    <published>2026-02-22T00:38:56+05:00</published>
+    <updated>2026-02-22T00:38:56+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/qube-smartwatch"/>
+    <title>Qube Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/CHAMPAGNE_01.webp?v=1773019308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="202" data-end="489">Stay connected, active, and in control with the <strong data-start="250" data-end="269">Qube Smartwatch</strong>, designed to blend smart technology with everyday convenience. Featuring a vibrant full-touch display and a sleek, modern design, Qube keeps your notifications, fitness tracking, and health insights right on your wrist.</p>
+<p data-start="491" data-end="808">Built for daily performance, the Qube Smartwatch offers comprehensive health monitoring, smart notifications, and multiple sports modes to support your active lifestyle. Whether you're tracking workouts, managing calls, or monitoring your heart rate, Qube delivers reliable performance with long-lasting battery life.</p>
+<p data-start="810" data-end="967">With Bluetooth connectivity, intuitive controls, and a comfortable strap design, Qube is the perfect companion for work, workouts, and everything in between.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>Qube</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10418358845718</id>
+      <title>Starlight Silver</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10418358845718</id>
+      <title>Black</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23814</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10418358845718</id>
+      <title>Gray Silver</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23890</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10418358845718</id>
+      <title>Pink Rose</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23889</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10396744483094</id>
+    <published>2026-01-29T14:14:22+05:00</published>
+    <updated>2026-01-29T14:14:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/opal-earbuds"/>
+    <title>Opal ANC Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Opal_Beige-1.webp?v=1775561678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="214" data-end="530">Designed for everyday performance and all-day comfort, these wireless earbuds deliver powerful sound, reliable connectivity, and long battery life in a sleek in-ear design. Available in <strong data-start="400" data-end="433">Black, White, Green, and Blue</strong>, they combine modern style with advanced audio technology to fit seamlessly into your lifestyle.</p>
+<p data-start="532" data-end="825">Powered by an <strong data-start="546" data-end="564">F11 audio unit</strong> and supporting <strong data-start="580" data-end="606">SBC/AAC audio decoding</strong>, the earbuds produce clear highs, balanced mids, and deep bass for music, calls, and streaming. With <strong data-start="708" data-end="725">Bluetooth 5.4</strong>, you get faster pairing, stable connections, and low power consumption for uninterrupted listening.</p>
+<p data-start="827" data-end="1105">Built for convenience, the earbuds feature <strong data-start="870" data-end="898">sensitive touch controls</strong>, <strong data-start="900" data-end="916">auto pairing</strong>, and <strong data-start="922" data-end="950">independent earbud usage</strong> with master-slave switching. Whether you’re answering calls, controlling music, or activating <strong data-start="1045" data-end="1073">Siri or Google Assistant</strong>, everything is just a tap away.</p>
+<p data-start="1107" data-end="1333">With up to <strong data-start="1118" data-end="1148">40 hours of total playtime</strong>, <strong data-start="1150" data-end="1175">IPX4 water resistance</strong>, and <strong data-start="1181" data-end="1208">low-latency performance</strong>, these earbuds are ideal for daily use, workouts, travel, and casual gaming — offering reliable performance wherever you go.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>compare</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>extra-off</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>opal</s:tag>
+    <s:tag>Vision 2026</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10396744483094</id>
+      <title>Beige</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23711</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10396744483094</id>
+      <title>Black</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23707</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10396744483094</id>
+      <title>Milky White</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23709</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10311576977686</id>
+    <published>2025-12-29T16:12:57+05:00</published>
+    <updated>2025-12-29T16:12:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/fusion-earbuds"/>
+    <title>Fusion Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/blue-black-1.webp?v=1771411142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            5499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 data-end="294" data-start="246"><strong data-end="294" data-start="248">Fusion Earbuds – Pure Sound. Pure Freedom.</strong></h1>
+<p data-end="638" data-start="296">The <strong data-end="318" data-start="300">Fusion Earbuds</strong> are engineered for listeners who want powerful sound, seamless connectivity, and an ultra-comfortable in-ear design. Built with a <strong data-end="484" data-start="449">13mm copper-ring dynamic driver</strong>, dual microphones, Bluetooth 5.4, and a premium ergonomic fit, Fusion delivers an audio experience where clarity, comfort, and convenience come together.</p>
+<p data-end="842" data-start="640">Whether you're working out, commuting, or winding down, Fusion keeps you immersed with deep bass, crisp vocals, and stable wireless performance—all wrapped inside a sleek, pocket-friendly charging case.<br><br></p>
+<h2 data-end="880" data-start="849"><strong data-end="880" data-start="852">Premium Sound Quality</strong></h2>
+<p data-end="959" data-start="881">Powered by a <strong data-end="932" data-start="894">Φ13mm copper-ring membrane speaker</strong>, Fusion Earbuds deliver:</p>
+<ul data-end="1104" data-start="960">
+<li data-end="979" data-start="960">
+<p data-end="979" data-start="962">Deep, rich bass</p>
+</li>
+<li data-end="996" data-start="980">
+<p data-end="996" data-start="982">Clear vocals</p>
+</li>
+<li data-end="1015" data-start="997">
+<p data-end="1015" data-start="999">Balanced highs</p>
+</li>
+<li data-end="1049" data-start="1016">
+<p data-end="1049" data-start="1018">20Hz–20kHz frequency response</p>
+</li>
+<li data-end="1104" data-start="1050">
+<p data-end="1104" data-start="1052">117dB sensitivity for crisp, high-resolution audio</p>
+</li>
+</ul>
+<p data-end="1143" data-start="1106">Perfect for music, movies, and calls.</p>
+<h2 data-end="1196" data-start="1150">
+<strong data-end="1196" data-start="1153"></strong><br>
+</h2>
+<h2 data-end="1196" data-start="1150"><strong data-end="1196" data-start="1153">Crystal-Clear Calling with Dual Mics</strong></h2>
+<p data-end="1341" data-start="1197">Each earbud features <strong data-end="1238" data-start="1218">dual microphones</strong> with <strong data-end="1271" data-start="1244">noise-reduction support</strong>, ensuring your voice stays loud and clear—even in noisy environments.</p>
+<h2 data-end="1384" data-start="1348">
+<strong data-end="1384" data-start="1351"></strong><br>
+</h2>
+<h2 data-end="1384" data-start="1348"><strong data-end="1384" data-start="1351">Bluetooth 5.4 Connectivity</strong></h2>
+<p data-end="1483" data-start="1385">Enjoy ultra-stable and fast connectivity with the latest <strong data-end="1480" data-start="1442">Bluetooth 5.4 (JL 7006F4 platform)</strong>:</p>
+<ul data-end="1691" data-start="1484">
+<li data-end="1505" data-start="1484">
+<p data-end="1505" data-start="1486">&lt;1s Quick Pairing</p>
+</li>
+<li data-end="1542" data-start="1506">
+<p data-end="1542" data-start="1508">Auto Pairing on opening the case</p>
+</li>
+<li data-end="1568" data-start="1543">
+<p data-end="1568" data-start="1545">Popup Pairing support</p>
+</li>
+<li data-end="1605" data-start="1569">
+<p data-end="1605" data-start="1571">Hyper Sync for instant reconnect</p>
+</li>
+<li data-end="1605" data-start="1569">
+<p data-end="1605" data-start="1571">10m wireless transmission range</p>
+</li>
+<li data-end="1691" data-start="1643">
+<p data-end="1691" data-start="1645">Supports AVRCP, HFP, HSP, A2DP audio protocols</p>
+</li>
+</ul>
+<h2 data-end="1731" data-start="1698">
+<strong data-end="1731" data-start="1701"></strong><br>
+</h2>
+<h2 data-end="1731" data-start="1698"><strong data-end="1731" data-start="1701">All-Day Listening Power</strong></h2>
+<p data-end="1798" data-start="1732">Fusion keeps up with your routine thanks to strong battery life:</p>
+<ul data-end="2043" data-start="1799">
+<li data-end="1836" data-start="1799">
+<p data-end="1836" data-start="1801"><strong data-end="1814" data-start="1801">5.5 hours</strong> continuous playback</p>
+</li>
+<li data-end="1861" data-start="1837">
+<p data-end="1861" data-start="1839"><strong data-end="1851" data-start="1839">90 hours</strong> standby</p>
+</li>
+<li data-end="1891" data-start="1862">
+<p data-end="1891" data-start="1864">Earbud battery: <strong data-end="1889" data-start="1880">40mAh</strong></p>
+</li>
+<li data-end="1929" data-start="1892">
+<p data-end="1929" data-start="1894">Charging case battery: <strong data-end="1927" data-start="1917">400mAh</strong></p>
+</li>
+<li data-end="1965" data-start="1930">
+<p data-end="1965" data-start="1932">Full charge time: <strong data-end="1963" data-start="1950">1.5 hours</strong></p>
+</li>
+<li data-end="1990" data-start="1966">
+<p data-end="1990" data-start="1968">Type-C fast charging</p>
+</li>
+<li data-end="2024" data-start="1991">
+<p data-end="2024" data-start="1993">Charging case input: <strong data-end="2022" data-start="2014">1.5W</strong></p>
+</li>
+<li data-end="2043" data-start="2025">
+<p data-end="2043" data-start="2027">Output: <strong data-end="2043" data-start="2035">0.2W</strong></p>
+</li>
+</ul>
+<h2 data-end="2082" data-start="2050">
+<strong data-end="2082" data-start="2053"></strong><br>
+</h2>
+<h2 data-end="2082" data-start="2050"><strong data-end="2082" data-start="2053">IPX4 Splash Resistance</strong></h2>
+<p data-end="2168" data-start="2083">Designed to handle sweat and light rain—ideal for workouts, commuting, and daily use.</p>
+<h2 data-end="2204" data-start="2175">
+<strong data-end="2204" data-start="2178"></strong><br>
+</h2>
+<h2 data-end="2204" data-start="2175"><strong data-end="2204" data-start="2178">Comfort Meets Style</strong></h2>
+<p data-end="2361" data-start="2205">Fusion Earbuds feature a lightweight TWS in-ear design that fits securely without fatigue.<br data-end="2298" data-start="2295">Available in premium colors:<br data-end="2329" data-start="2326"><strong data-end="2361" data-start="2329">Silver, Red, Black, Gray</strong></p>
+<p data-end="2376" data-start="2363">Dimensions:</p>
+<ul data-end="2478" data-start="2377">
+<li data-end="2409" data-start="2377">
+<p data-end="2409" data-start="2379"><strong data-end="2391" data-start="2379">Earbuds:</strong> 23 × 25 × 29 mm</p>
+</li>
+<li data-end="2452" data-start="2410">
+<p data-end="2452" data-start="2412"><strong data-end="2430" data-start="2412">Charging Case:</strong> 57 × 55.5 × 34.5 mm</p>
+</li>
+<li data-end="2478" data-start="2453">
+<p data-end="2478" data-start="2455"><strong data-end="2472" data-start="2455">Total Weight:</strong> 46g</p>
+</li>
+</ul>
+<h2 data-end="2509" data-start="2485">
+<strong data-end="2509" data-start="2488"></strong><br>
+</h2>
+<h2 data-end="2509" data-start="2485"><strong data-end="2509" data-start="2488">Smart Features</strong></h2>
+<p data-end="2544" data-start="2510">Fusion is built for convenience:</p>
+<ul data-end="2761" data-start="2545">
+<li data-end="2577" data-start="2545">
+<p data-end="2577" data-start="2547">Wake Siri / Google Assistant</p>
+</li>
+<li data-end="2622" data-start="2578">
+<p data-end="2622" data-start="2580">Touch controls (play/pause, skip, calls)</p>
+</li>
+<li data-end="2655" data-start="2623">
+<p data-end="2655" data-start="2625">Charging &amp; status indicators</p>
+</li>
+<li data-end="2682" data-start="2656">
+<p data-end="2682" data-start="2658">Master-slave switching</p>
+</li>
+<li data-end="2703" data-start="2683">
+<p data-end="2703" data-start="2685">Anti-loss prompt</p>
+</li>
+<li data-end="2761" data-start="2704">
+<p data-end="2761" data-start="2706">In-ear detection (not supported—can remove if needed)</p>
+</li>
+</ul>
+<h2 data-end="2793" data-start="2768">
+<strong data-end="2793" data-start="2771"></strong><br>
+</h2>
+<h2 data-end="2793" data-start="2768"><strong data-end="2793" data-start="2771">What’s Included</strong></h2>
+<ul data-end="2938" data-start="2794">
+<li data-end="2819" data-start="2794">
+<p data-end="2819" data-start="2796">Fusion Earbuds (GM06)</p>
+</li>
+<li data-end="2845" data-start="2820">
+<p data-end="2845" data-start="2822">Type-C Charging Cable</p>
+</li>
+<li data-end="2861" data-start="2846">
+<p data-end="2861" data-start="2848">User Manual</p>
+</li>
+<li data-end="2879" data-start="2862">
+<p data-end="2879" data-start="2864">Warranty Card</p>
+</li>
+<li data-end="2902" data-start="2880">
+<p data-end="2902" data-start="2882">Gift Box Packaging</p>
+</li>
+<li data-end="2919" data-start="2903">
+<p data-end="2919" data-start="2905">Logo Sticker</p>
+</li>
+<li data-end="2938" data-start="2920">
+<p data-end="2938" data-start="2922">Welcome Envelope</p>
+</li>
+</ul>
+<h2 data-end="2963" data-start="2945">
+<strong data-end="2963" data-start="2948"></strong><br>
+</h2>
+<h2 data-end="2963" data-start="2945"><strong data-end="2963" data-start="2948">Perfect For</strong></h2>
+<p data-end="3088" data-start="2964">✔ Daily listening<br data-end="2984" data-start="2981">✔ Gym &amp; workouts<br data-end="3003" data-start="3000">✔ Travel &amp; commute<br data-end="3024" data-start="3021">✔ Online meetings &amp; calls<br data-end="3052" data-start="3049">✔ Students, professionals &amp; gamers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>fusion</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>Vision 2026</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10311576977686</id>
+      <title>Black</title>
+      <s:price currency="PKR">5499.00</s:price>
+      <s:sku>23386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10311576977686</id>
+      <title>Blue Black</title>
+      <s:price currency="PKR">5499.00</s:price>
+      <s:sku>23388</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10311576977686</id>
+      <title>Silver Black</title>
+      <s:price currency="PKR">5499.00</s:price>
+      <s:sku>23391</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10311576977686</id>
+      <title>Red Black</title>
+      <s:price currency="PKR">5499.00</s:price>
+      <s:sku>23389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10302852333846</id>
+    <published>2025-11-20T15:04:47+05:00</published>
+    <updated>2025-11-20T15:04:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/navigator-smartwatch"/>
+    <title>Navigator Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/1_d8b06a71-8b9c-4564-8344-11b83b4ca7b3.webp?v=1766048642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            12999.00 - 14999.00
+            <a href="https://zerolifestyle.co/products/navigator-smartwatch">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-start="290" data-end="351">Navigator Smartwatch – Precision GPS. Rugged Performance.</h3>
+<p data-start="353" data-end="704">The <strong data-start="357" data-end="381">Navigator </strong><a href="https://zerolifestyle.co/pages/smart-watches">Smart watch</a> is built for people who take accuracy seriously — from outdoor explorers to everyday athletes. With <strong data-start="482" data-end="504">high-precision GPS</strong>, advanced health sensors, and a <strong data-start="537" data-end="563">working rotating crown</strong> for ultra-smooth control, Navigator gives you powerful performance in a tough, outdoor-ready design.</p>
+<p data-start="353" data-end="704"><span class="" data-state="closed"><span class="relative inline-flex items-center"></span></span>Spec - Navigator</p>
+<hr data-start="706" data-end="709">
+<h4 data-start="711" data-end="748">🔭 High-Precision GPS Tracking</h4>
+<p data-start="749" data-end="889">Go further with confidence. Navigator’s <strong data-start="789" data-end="827">integrated high-precision GPS chip</strong> tracks your route, pace, and distance with accuracy across:</p>
+<ul data-start="890" data-end="976">
+<li data-start="890" data-end="901">
+<p data-start="892" data-end="901">Walking</p>
+</li>
+<li data-start="902" data-end="913">
+<p data-start="904" data-end="913">Running</p>
+</li>
+<li data-start="914" data-end="925">
+<p data-start="916" data-end="925">Cycling</p>
+</li>
+<li data-start="926" data-end="943">
+<p data-start="928" data-end="943">Trail running</p>
+</li>
+<li data-start="944" data-end="976">
+<p data-start="946" data-end="976">Hiking / on-foot exploration</p>
+</li>
+</ul>
+<p data-start="978" data-end="1016">No phone needed for location tracking.</p>
+<hr data-start="1018" data-end="1021">
+<h4 data-start="1023" data-end="1070">🎛 Working Rotating Crown + Sport Button</h4>
+<p data-start="1071" data-end="1104">Navigate your watch like a pro:</p>
+<ul data-start="1105" data-end="1307">
+<li data-start="1105" data-end="1175">
+<p data-start="1107" data-end="1175"><strong data-start="1107" data-end="1125">Rotating crown</strong> to scroll menus, switch tiles, and zoom quickly</p>
+</li>
+<li data-start="1176" data-end="1247">
+<p data-start="1178" data-end="1247"><strong data-start="1178" data-end="1209">Dedicated Sport Mode button</strong> for one-tap access to your workouts</p>
+</li>
+<li data-start="1248" data-end="1307">
+<p data-start="1250" data-end="1307">Extra <strong data-start="1256" data-end="1271">Home button</strong> for fast control in any situation</p>
+</li>
+</ul>
+<p data-start="1309" data-end="1400">Even with gloves or sweaty hands, the physical controls keep everything under your command.</p>
+<hr data-start="1402" data-end="1405">
+<h4 data-start="1407" data-end="1454">🌈 290+ Watch Faces &amp; Full Customisation</h4>
+<p data-start="1455" data-end="1477">Make it truly yours:</p>
+<ul data-start="1478" data-end="1646">
+<li data-start="1478" data-end="1520">
+<p data-start="1480" data-end="1520"><strong data-start="1480" data-end="1518">5 default watch faces on the watch</strong></p>
+</li>
+<li data-start="1521" data-end="1582">
+<p data-start="1523" data-end="1582"><strong data-start="1523" data-end="1559">Over 290+ additional watch faces</strong> available in the app</p>
+</li>
+<li data-start="1583" data-end="1646">
+<p data-start="1585" data-end="1646">DIY custom dials using your own photos, colours, and styles</p>
+</li>
+</ul>
+<p data-start="1648" data-end="1702">You can switch looks from sporty to formal in seconds.</p>
+<hr data-start="1704" data-end="1707">
+<h4 data-start="1709" data-end="1755">⚡ Magnetic Charging &amp; Long Battery Life</h4>
+<p data-start="1756" data-end="1820">Charging is effortless with the <strong data-start="1788" data-end="1817">included magnetic charger</strong>:</p>
+<ul data-start="1821" data-end="2019">
+<li data-start="1821" data-end="1882">
+<p data-start="1823" data-end="1882">Simply snap the charger to the back – no ports, no hassle</p>
+</li>
+<li data-start="1883" data-end="1944">
+<p data-start="1885" data-end="1944"><strong data-start="1885" data-end="1903">300mAh battery</strong> with up to <strong data-start="1915" data-end="1942">3–5 days of typical use</strong></p>
+</li>
+<li data-start="1945" data-end="1980">
+<p data-start="1947" data-end="1980">Up to <strong data-start="1953" data-end="1978">10–12 days on standby</strong></p>
+</li>
+<li data-start="1981" data-end="2019">
+<p data-start="1983" data-end="2019">Full charge in about <strong data-start="2004" data-end="2019">2.5–3 hours</strong></p>
+</li>
+</ul>
+<hr data-start="2021" data-end="2024">
+<h4 data-start="2026" data-end="2070">🧠 Advanced Health &amp; Fitness Tracking</h4>
+<p data-start="2071" data-end="2123">Stay on top of your health with precision sensors:</p>
+<ul data-start="2124" data-end="2378">
+<li data-start="2124" data-end="2154">
+<p data-start="2126" data-end="2154">24/7 heart rate monitoring</p>
+</li>
+<li data-start="2155" data-end="2187">
+<p data-start="2157" data-end="2187">Blood oxygen (SpO2) tracking</p>
+</li>
+<li data-start="2188" data-end="2226">
+<p data-start="2190" data-end="2226">Blood pressure &amp; stress monitoring</p>
+</li>
+<li data-start="2227" data-end="2259">
+<p data-start="2229" data-end="2259">Sleep tracking with insights</p>
+</li>
+<li data-start="2260" data-end="2307">
+<p data-start="2262" data-end="2307">Breath training modes (Relax / Fall asleep)</p>
+</li>
+<li data-start="2308" data-end="2378">
+<p data-start="2310" data-end="2378">100+ sports modes with detailed metrics (steps, kcal, duration, MET)</p>
+</li>
+</ul>
+<hr data-start="2380" data-end="2383">
+<h4 data-start="2385" data-end="2427">🖥 1.43" AMOLED Display + Always-On</h4>
+<p data-start="2428" data-end="2502">Enjoy a vivid, sharp view with a <strong data-start="2461" data-end="2499">1.43-inch AMOLED display (466×466)</strong>:</p>
+<ul data-start="2503" data-end="2603">
+<li data-start="2503" data-end="2535">
+<p data-start="2505" data-end="2535">Always-On Display clock mode</p>
+</li>
+<li data-start="2536" data-end="2558">
+<p data-start="2538" data-end="2558">Full touch control</p>
+</li>
+<li data-start="2559" data-end="2603">
+<p data-start="2561" data-end="2603">Crisp, bright visuals indoors and outdoors</p>
+</li>
+</ul>
+<hr data-start="2605" data-end="2608">
+<h4 data-start="2610" data-end="2658">📞 Smart Features That Keep You Connected</h4>
+<ul data-start="2659" data-end="2988">
+<li data-start="2659" data-end="2714">
+<p data-start="2661" data-end="2714">Bluetooth calling (dial/answer/reject on the watch)</p>
+</li>
+<li data-start="2715" data-end="2768">
+<p data-start="2717" data-end="2768">App notifications (social apps, SMS, calls, etc.)</p>
+</li>
+<li data-start="2769" data-end="2791">
+<p data-start="2771" data-end="2791">AI voice assistant</p>
+</li>
+<li data-start="2792" data-end="2843">
+<p data-start="2794" data-end="2843">Weather, alarms, timers, stopwatch, world clock</p>
+</li>
+<li data-start="2844" data-end="2906">
+<p data-start="2846" data-end="2906">Sedentary / drink water reminders, goal achievement alerts</p>
+</li>
+<li data-start="2907" data-end="2948">
+<p data-start="2909" data-end="2948">Remote camera shutter &amp; music control</p>
+</li>
+<li data-start="2949" data-end="2988">
+<p data-start="2951" data-end="2988">Find my phone, DND &amp; low power mode</p>
+</li>
+</ul>
+<hr data-start="2990" data-end="2993">
+<h4 data-start="2995" data-end="3016">💧 Built Tough</h4>
+<ul data-start="3017" data-end="3175">
+<li data-start="3017" data-end="3086">
+<p data-start="3019" data-end="3086"><strong data-start="3019" data-end="3038">IP68 waterproof</strong> – ready for sweat, splashes, and everyday use</p>
+</li>
+<li data-start="3087" data-end="3137">
+<p data-start="3089" data-end="3137">Aluminum alloy + ABS frame, PC base, TPU strap</p>
+</li>
+<li data-start="3138" data-end="3175">
+<p data-start="3140" data-end="3175">Comfortable 60.5g wearable weight</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>army</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>navigator</s:tag>
+    <s:tag>platinum series products</s:tag>
+    <s:tag>Productivity</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>Vision 2026</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10302852333846</id>
+      <title>Black Red</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>23043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10302852333846</id>
+      <title>Green</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>23046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10302852333846</id>
+      <title>Camou Gray</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>23047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10302852333846</id>
+      <title>Orange</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>23044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10302852333846</id>
+      <title>Beige</title>
+      <s:price currency="PKR">12999.00</s:price>
+      <s:sku>23048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10302852333846</id>
+      <title>Black</title>
+      <s:price currency="PKR">14999.00</s:price>
+      <s:sku>23045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10273119535382</id>
+    <published>2025-11-07T14:37:55+05:00</published>
+    <updated>2025-11-07T14:37:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/aero-earbuds"/>
+    <title>Aero Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Aero_Hyper-Red-4.webp?v=1766759359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            3499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 dir="ltr"><span>Aero Z-Buds</span></h2>
+<h3 dir="ltr"><span>Specifications</span></h3>
+<p dir="ltr"><span>Package Contains:</span><span> 1 pair of <a href="https://zerolifestyle.co/pages/earbuds-zbuds">earbud</a>, 1 charging cable, 1 user manual, 1 feature book, 1 warranty card</span></p>
+<p dir="ltr"> </p>
+<hr>
+<p> </p>
+<h3 dir="ltr"><span>Aero Z-Buds</span></h3>
+<p dir="ltr"><span>Aero brings the essence of Zero Lifestyle’s sound engineering into a lighter, more compact form. Designed for creators, commuters, and everyday listeners, Aero delivers studio-grade clarity, seamless connectivity, and comfort that stays with you all day. Whether you’re in the zone, on the go, or winding down, Aero blends performance and elegance for the modern audio experience.</span></p>
+<p dir="ltr"> </p>
+<hr>
+<p> </p>
+<h3 dir="ltr"><span>Features of the Product</span></h3>
+<p dir="ltr"><span>13mm Boosted Super Driver</span><span><br></span><span>Aero is powered by a 13mm boosted sound driver that enhances every beat with rich depth and crisp detail, creating a balanced audio experience that brings your playlists, calls, and podcasts to life.</span></p>
+<p dir="ltr"><span>ENC Function with Quad Mic</span><span><br></span><span>With Environmental Noise Cancellation (ENC) and a Quad Mic setup, Aero ensures your voice stays crystal clear during calls, even in noisy surroundings. Ideal for remote work, content creation, and everyday communication.</span></p>
+<p dir="ltr"><span>AI Voice Assistant</span><span><br></span><span>Integrated AI voice support lets you control music, manage calls, and check updates effortlessly, all through simple voice commands without reaching for your phone.</span></p>
+<p dir="ltr"><span>Low Latency Gaming Mode</span><span><br></span><span>With just </span><span>45ms latency</span><span>, Aero’s gaming mode synchronizes sound and visuals in real-time for uninterrupted gameplay and a competitive edge.</span></p>
+<p dir="ltr"><span>Instant Pairing</span><span><br></span><span>Aero connects instantly the moment you open the case; no delays, no manual reconnecting. Smart pairing technology remembers your devices for a seamless start every time.</span></p>
+<p dir="ltr"><span>Extended Battery Life</span></p>
+<p dir="ltr"><span>Enjoy </span><span>up to 30 hours of total playtime</span><span> (including case) and </span><span>5 hours on a single charge</span><span>, supported by Type-C fast charging that gives </span><span>120 minutes of playtime in just 10 minutes</span><span>.</span></p>
+<p dir="ltr"><span>IPX5 Water Resistance</span><span><br></span><span>Built to handle splashes, sweat, and light rain, Aero keeps up with your workouts and outdoor routines without compromise.</span></p>
+<p dir="ltr"><span>Sensitive Touch Controls</span><span><br></span><span>Manage music, calls, and gaming mode with a gentle tap; intuitive touch control ensures zero interruptions in your flow.</span></p>
+<p dir="ltr"> </p>
+<hr>
+<p> </p>
+<h3 dir="ltr"><span>Specifications of Product</span></h3>
+<p dir="ltr"><span>Bluetooth Version:</span><span> 5.4</span><span><br></span><span>BT Range:</span><span> 15m</span><span><br></span><span>Speaker Unit:</span><span> 13mm</span><span><br></span><span>Frequency Response:</span><span> 20–10kHz</span><span><br></span><span>Impedance:</span><span> 32Ω</span><span><br></span><span>Earbud Battery:</span><span> 30mAh</span><span><br></span><span>Charging Case Battery:</span><span> 250mAh</span><span><br></span><span>Charging Time:</span><span> 1.5 hours</span><span><br></span><span>Playtime:</span><span> Up to 5 hours on a single charge; 30 hours total with case</span><span><br></span><span>Charging Input:</span><span> Type-C, DC 5V 0.3A</span><span><br></span><span>Box Input:</span><span> DC 5V 0.3A</span><span><br></span><span>Water Resistance:</span><span> IPX5</span><span><br></span><span>Special Features:</span><span> 13mm boosted drivers, ENC with Quad Mic, AI Voice Assistant, Gaming Mode (45ms Low Latency), Instant Pairing, Type-C Fast Charging, 10-min quick charge = 120-min playtime, IPX5 water resistance, Sensitive Touch Controls</span></p>
+<p dir="ltr"> </p>
+<hr>
+<p> </p>
+<h3 dir="ltr"><span>Why Choose Aero Z-Buds</span></h3>
+<p dir="ltr"><span>Aero Z-Buds redefine what everyday audio should feel effortless, expressive, and reliable. With immersive sound, powerful noise cancellation, and long-lasting performance, Aero keeps you connected to your rhythm wherever life takes you. From daily commutes to late-night edits, from workouts to work calls, Aero delivers clarity, comfort, and confidence, the Zero way.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10273119535382</id>
+      <title>Hyper Red</title>
+      <s:price currency="PKR">3499.00</s:price>
+      <s:sku>22281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10273119535382</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">3499.00</s:price>
+      <s:sku>22270</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10273119535382</id>
+      <title>Space White</title>
+      <s:price currency="PKR">3499.00</s:price>
+      <s:sku>23064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10273119535382</id>
+      <title>Aqua Green</title>
+      <s:price currency="PKR">3499.00</s:price>
+      <s:sku>23063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10273119535382</id>
+      <title>Midnight Blue</title>
+      <s:price currency="PKR">3499.00</s:price>
+      <s:sku>23061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/8244256112918</id>
+    <published>2025-10-31T12:25:06+05:00</published>
+    <updated>2025-10-31T12:25:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/terra-fit-smart-watch"/>
+    <title>Terra Fit Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/1_df601d00-3118-441f-ac86-ce5b8f69a31a.webp?v=1776933536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="241" data-end="599">The Terra Fit Smartwatch is designed for active lifestyles that demand reliability, smart connectivity, and everyday comfort. With Bluetooth calling support, health tracking essentials, and a durable sporty build, Terra Fit helps you stay connected, track your fitness, and manage daily tasks effortlessly—whether you’re working out, commuting, or unwinding.</p>
+<p data-start="601" data-end="899">Built around a practical full-touch display and powered by a single-chip Bluetooth calling system, Terra Fit delivers smooth performance with essential smart features that matter most. Its long battery life, water resistance, and fitness-focused tools make it a dependable companion for daily wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>compare</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>terra</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8244256112918</id>
+      <title>Rose Pink</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8244256112918</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>18564</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8244256112918</id>
+      <title>Silver Grey</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>18577</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8244256112918</id>
+      <title>Red Berry</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>18576</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8244256112918</id>
+      <title>Midnight Blue</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>18575</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8244256112918</id>
+      <title>Olive Green</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>18578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10256587227414</id>
+    <published>2025-10-24T16:00:50+05:00</published>
+    <updated>2025-10-24T16:00:50+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/evo-earbuds"/>
+    <title>Evo Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/evo_jet-back_3.webp?v=1776686260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            3499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>EVO Earbuds<br></strong><br>The EVO Earbuds bring a bold new edge to sound and style. With a sleek metallic finish, powerful 10 mm drivers, and dual-mic ENC for crystal-clear calls, EVO is designed for those who live loud and make every beat their own. Built to match Gen Z energy, it’s where performance meets personality.<br><br><strong>Features of the Product<br></strong><br>Premium Metallic Design – Glossy metallic casing with bold color options. <br>Lightweight 36.5 g build for everyday comfort and portability.<br>Powerful Sound Performance – 10 mm dynamic drivers deliver balanced bass and crisp treble.<br>ENC Voice Clarity – Dual-mic Environmental Noise Cancellation (ENC) ensures clear calls even in noisy environments.<br>Battery Performance –<br>Earbuds: 40 mAh each (approx. 5–6 hours playtime)<br>Up to 50 Hours total play time.<br>Charging Type – Type C<br>Bluetooth Connectivity – Bluetooth 5.4 <br>Smart Touch Controls –<br>Play/Pause: Single-tap MFB button<br>Next Track: Double-tap right earbud<br>Previous Track: Double-tap left earbud<br>Volume +: Triple-tap left earbud<br>Volume –: Triple-tap right earbud<br>Voice Assistant (Siri / Google): Press and hold 2 s<br>Answer / Hang up Call: Single-tap MFB<br>Reject Call: Long-press 2 s MFB<br>Turn Off: Press and hold 4 s<br>Water Resistance – IPX4 Water Resistance<br><br><strong>Specifications of Product</strong></p>
+<p>Charging Case Dimensions: 60.1 × 48.36 × 26.6 mm<br>Weight: 36.5 g (total)<br>Battery Capacity: Earbuds 40 mAh each / Case 400 mAh<br>Total Playtime: 50 hours<br>Bluetooth Version: 5.4 <br>Bluetooth Range: 10 m<br>Driver Size: 10 mm dynamic drivers<br>Microphones: Dual mic + ENC <br>Controls: Smart Touch (MFB multi-function buttons)<br><br><strong>Why Choose EVO Earbuds?<br></strong><br>The EVO Earbuds are engineered for those who thrive on individuality. With their metallic build, punchy 10 mm drivers, and ENC-enhanced voice clarity, EVO ensures your music and calls always sound as good as you look. Designed for expressive, everyday use. It’s not just another pair of earbuds, it’s your sound, your style, your EVO.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>compare</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Evo</s:tag>
+    <s:tag>Gaming Earbuds</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>Monsoon 1000</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>Productivity</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10256587227414</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">3499.00</s:price>
+      <s:sku>23463</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10256587227414</id>
+      <title>Milky White</title>
+      <s:price currency="PKR">3499.00</s:price>
+      <s:sku>23470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10256587227414</id>
+      <title>Midnight Blue</title>
+      <s:price currency="PKR">3499.00</s:price>
+      <s:sku>23464</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10256587227414</id>
+      <title>Ruby Red</title>
+      <s:price currency="PKR">3499.00</s:price>
+      <s:sku>23468</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10256587227414</id>
+      <title>Forest Green</title>
+      <s:price currency="PKR">3499.00</s:price>
+      <s:sku>23466</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10224913252630</id>
+    <published>2025-09-26T15:29:16+05:00</published>
+    <updated>2025-09-26T15:29:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/zenith-headphones"/>
+    <title>Zenith Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Zeinth-CarbonBlack_7.webp?v=1773045674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            6999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 dir="ltr"><span>Specifications</span></h2>
+<p dir="ltr"><span>Package Contains:</span><span> 1 device, 1 user manual, 1 warranty card</span></p>
+<p dir="ltr"> </p>
+<hr>
+<p> </p>
+<h2 dir="ltr"><span>Zenith Headphones</span></h2>
+<p dir="ltr"><span>Zenith blends premium sound engineering with timeless design, giving creators and travelers the ultimate immersive audio experience. Built for long journeys, creative sessions, and everyday use, Zenith combines powerful performance, extended playtime, and versatile functionality in a sophisticated form.</span></p>
+<h3 dir="ltr"><span>Features of the Product</span></h3>
+<p dir="ltr"><span>Immersive Acoustic Experience</span><span><br></span><span>Zenith features a unique acoustic chamber effect that creates a deep, studio-like immersive sound environment around the listener. The result is rich, immersive sound that enhances focus and creativity anywhere.</span></p>
+<p dir="ltr"><span>Extended Playtime</span><span><br></span><span>With up to 70 hours of battery life, Zenith is designed to support long creative sessions, travel days, and continuous playback without frequent charging.</span></p>
+<p dir="ltr"><span>Dual Pairing</span><span><br></span><span>Connect two devices simultaneously to seamlessly switch between tasks, such as editing on a laptop and taking calls on a smartphone, without manual reconnection.</span></p>
+<p dir="ltr"><span>Independent SD Card Slot</span><span><br></span><span>Zenith allows music playback directly from an SD card, enabling users to enjoy their playlists without relying on a phone or external device.</span></p>
+<p dir="ltr"><span>External Speaker</span><span><br></span><span>Switch from private listening to speaker mode to share music and sound with others, transforming Zenith into a compact portable speaker.</span></p>
+<p dir="ltr"><span>Premium Design and Build</span><span><br></span><span>Zenith features an over-the-ear cup design for extended comfort, fingerprint-resistant finishes, and a quality-build steel headband. It is available in three sophisticated colors: Chocolate Brown, Midnight Blue, and Charcoal Black.</span></p>
+<p dir="ltr"><span>Travel Friendly</span><span><br></span><span>Zenith’s foldable-design is perfect for those who are always on-the-move, fitting seamlessly into travel setups and airport looks while providing reliable performance throughout long journeys.</span></p>
+<p dir="ltr"> </p>
+<hr>
+<p> </p>
+<h3 dir="ltr"><span>Specifications of Product</span></h3>
+<p dir="ltr"><span>Material:</span><span> High-grade plastic body with steel headband extension and matte finish earcups</span><span><br></span><span>Battery:</span><span> 800 mAh polymer lithium battery with up to 70 hours of playback time</span><span><br></span><span>Connectivity:</span><span> Bluetooth 5.3, SD card slot, dual pairing support</span><span><br></span><span>Charging:</span><span> Type-C charging</span><span><br></span><span>Audio:</span><span> 40mm sound drivers</span><span><br></span><span>Weight:</span><span> Approx. 250 g</span><span><br></span><span>Colors:</span><span> Chocolate Brown, Midnight Blue, Charcoal Black</span><span><br></span><span>Special Features:</span><span> Up to 70 hours playtime, Dual pairing, Independent SD card slot, upto 45MS low latency, external speaker mode, immersive chamber sound, 300-day standby time.</span></p>
+<p dir="ltr"> </p>
+<hr>
+<p> </p>
+<h3 dir="ltr"><span>Why Choose Zenith Headphones</span></h3>
+<p dir="ltr"><span>Zenith is more than just a pair of headphones; it is an immersive studio experience on-the-go. Whether working on the go, traveling, or seeking inspiration, Zenith delivers a powerful and sound experience with exceptional endurance and versatility. Its blend of premium design, extended playtime, and multi-mode functionality makes it the ideal choice for creators, travelers, and the acoustic chamber is perfect for anyone who refuses to compromise on sound quality.</span></p>
+<h1 data-end="597" data-start="576"><br></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>compare</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>Monsoon 1000</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>Productivity</s:tag>
+    <s:tag>Summer 1000</s:tag>
+    <s:tag>Summer 2000</s:tag>
+    <s:tag>Summer 500</s:tag>
+    <s:tag>zenith</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10224913252630</id>
+      <title>Carbon Black</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>22650</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10224913252630</id>
+      <title>Midnight Blue</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>22930</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10224913252630</id>
+      <title>Chocolate Brown</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>22931</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10107161510166</id>
+    <published>2025-07-31T18:50:47+05:00</published>
+    <updated>2025-07-31T18:50:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/snap-zbuds"/>
+    <title>Snap Zbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Lavendar-Haze_2.webp?v=1771238203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            6499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-start="0" data-end="20"><strong data-start="4" data-end="18">Snap Zbuds</strong></h3>
+<p data-start="22" data-end="306">The Snap Zbuds are engineered for music lovers and multitaskers who want powerful sound, effortless controls, and all-day comfort. With immersive audio, long-lasting battery, and seamless connectivity, Snap Zbuds are your go-to earbuds for work, workouts, and everything in between.</p>
+<hr data-start="308" data-end="311">
+<h3 data-start="313" data-end="346"><strong data-start="317" data-end="344">Features of the Product</strong></h3>
+<p data-start="348" data-end="454">🎧 <strong data-start="351" data-end="383">Compact &amp; Lightweight Design</strong> – Ergonomic earbuds with a sleek charging case for easy portability.</p>
+<p data-start="456" data-end="560">🔊 <strong data-start="459" data-end="478">Immersive Audio</strong> – 12 mm dynamic drivers with SBC and AAC decoding deliver rich, balanced sound.</p>
+<p data-start="562" data-end="681">🔋 <strong data-start="565" data-end="590">Extended Battery Life</strong> – Up to <strong data-start="599" data-end="610">7 hours</strong> of playtime on a single charge and <strong data-start="646" data-end="664">29 hours total</strong> with the case.</p>
+<p data-start="683" data-end="778">⚡ <strong data-start="685" data-end="716">Quick Charging &amp; USB‑C Port</strong> – Fully charges in <strong data-start="736" data-end="747">2 hours</strong> for uninterrupted listening.</p>
+<p data-start="780" data-end="891">🔗 <strong data-start="783" data-end="808">Seamless Connectivity</strong> – Bluetooth 5.3 with 10 m range, quick auto‑pairing, and master‑slave switching.</p>
+<p data-start="893" data-end="1023">🎙 <strong data-start="896" data-end="920">Clear Calls Anywhere</strong> – Dual MEMS microphones with ENC (Environmental Noise Cancellation) for crystal‑clear conversations.</p>
+<p data-start="1025" data-end="1148">🖐 <strong data-start="1028" data-end="1064">Touch Controls &amp; Voice Assistant</strong> – Play/pause, switch tracks, and activate Siri/Google Assistant with simple taps.</p>
+<p data-start="1150" data-end="1224">💧 <strong data-start="1153" data-end="1179">IPX4 Splash Resistance</strong> – Built to withstand sweat and light rain.</p>
+<hr data-start="1226" data-end="1229">
+<h3 data-start="1231" data-end="1266"><strong data-start="1235" data-end="1264">Specifications of Product</strong></h3>
+<ul data-start="1268" data-end="1986">
+<li data-start="1268" data-end="1319">
+<p data-start="1270" data-end="1319"><strong data-start="1270" data-end="1292">Earbud Dimensions:</strong> 27.39 × 25.01 × 23.02 mm</p>
+</li>
+<li data-start="1320" data-end="1371">
+<p data-start="1322" data-end="1371"><strong data-start="1322" data-end="1351">Charging Case Dimensions:</strong> 66 × 43.7 × 32 mm</p>
+</li>
+<li data-start="1372" data-end="1395">
+<p data-start="1374" data-end="1395"><strong data-start="1374" data-end="1385">Weight:</strong> 30.42 g</p>
+</li>
+<li data-start="1396" data-end="1455">
+<p data-start="1398" data-end="1455"><strong data-start="1398" data-end="1419">Battery Capacity:</strong> 50 mAh (earbuds) + 480 mAh (case)</p>
+</li>
+<li data-start="1456" data-end="1516">
+<p data-start="1458" data-end="1516"><strong data-start="1458" data-end="1471">Playtime:</strong> 7 hours (single charge) / 29 hours (total)</p>
+</li>
+<li data-start="1517" data-end="1547">
+<p data-start="1519" data-end="1547"><strong data-start="1519" data-end="1536">Standby Time:</strong> 70 hours</p>
+</li>
+<li data-start="1548" data-end="1588">
+<p data-start="1550" data-end="1588"><strong data-start="1550" data-end="1568">Charging Time:</strong> 2 hours via USB‑C</p>
+</li>
+<li data-start="1589" data-end="1632">
+<p data-start="1591" data-end="1632"><strong data-start="1591" data-end="1613">Bluetooth Version:</strong> 5.3 (10 m range)</p>
+</li>
+<li data-start="1633" data-end="1659">
+<p data-start="1635" data-end="1659"><strong data-start="1635" data-end="1647">Chipset:</strong> Jieli7016</p>
+</li>
+<li data-start="1660" data-end="1702">
+<p data-start="1662" data-end="1702"><strong data-start="1662" data-end="1679">Audio Driver:</strong> 12 mm dynamic driver</p>
+</li>
+<li data-start="1703" data-end="1745">
+<p data-start="1705" data-end="1745"><strong data-start="1705" data-end="1728">Frequency Response:</strong> 20 Hz – 20 kHz</p>
+</li>
+<li data-start="1746" data-end="1769">
+<p data-start="1748" data-end="1769"><strong data-start="1748" data-end="1762">Impedance:</strong> 16 Ω</p>
+</li>
+<li data-start="1770" data-end="1803">
+<p data-start="1772" data-end="1803"><strong data-start="1772" data-end="1788">Sensitivity:</strong> 112.5 ± 3 dB</p>
+</li>
+<li data-start="1804" data-end="1838">
+<p data-start="1806" data-end="1838"><strong data-start="1806" data-end="1827">Decoding Support:</strong> SBC, AAC</p>
+</li>
+<li data-start="1839" data-end="1873">
+<p data-start="1841" data-end="1873"><strong data-start="1841" data-end="1857">Microphones:</strong> Dual MEMS Mic</p>
+</li>
+<li data-start="1874" data-end="1940">
+<p data-start="1876" data-end="1940"><strong data-start="1876" data-end="1899">Noise Cancellation:</strong> ENC (Environmental Noise Cancellation)</p>
+</li>
+<li data-start="1941" data-end="1986">
+<p data-start="1943" data-end="1986"><strong data-start="1943" data-end="1964">Water Resistance:</strong> IPX4 (splash‑proof)</p>
+</li>
+</ul>
+<hr data-start="1988" data-end="1991">
+<h3 data-start="1993" data-end="2025"><strong data-start="1997" data-end="2023">Why Choose Snap Zbuds?</strong></h3>
+<p data-start="2027" data-end="2409" data-is-last-node="" data-is-only-node="">Snap Zbuds are more than just wireless earbuds—they’re your all‑day companion for calls, music, and workouts. With powerful audio, reliable ENC for clear calls, and a compact design, they’re built for every moment. Whether you’re commuting, hitting the gym, or just unwinding, Snap Zbuds keep you connected and entertained without compromise.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>daraz</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Funday Sale</s:tag>
+    <s:tag>Gaming Earbuds</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>Productivity</s:tag>
+    <s:tag>snap</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10107161510166</id>
+      <title>Lavender Haze</title>
+      <s:price currency="PKR">6499.00</s:price>
+      <s:sku>23427</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10107161510166</id>
+      <title>Cool Grey</title>
+      <s:price currency="PKR">6499.00</s:price>
+      <s:sku>23425</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10107161510166</id>
+      <title>Pearl White</title>
+      <s:price currency="PKR">6499.00</s:price>
+      <s:sku>23426</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10063563882774</id>
+    <published>2025-07-03T15:53:26+05:00</published>
+    <updated>2025-07-03T15:53:26+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/legacy-smartwatch"/>
+    <title>Legacy Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/GoldBlack_2.webp?v=1765658265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            13999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-end="453" data-start="119"><strong data-end="140" data-start="119">Legacy Smartwatch</strong></h2>
+<p data-end="453" data-start="119"><br data-end="143" data-start="140">The Legacy Smartwatch combines modern utility with timeless design, engineered to elevate your everyday life. From powerful health tracking features to customizable aesthetics, this smartwatch is built for users who demand performance, comfort, and a touch of class — whether at work, in the gym, or on the go.</p>
+<h3 data-end="483" data-start="460">Features of the Product</h3>
+<ul data-end="1608" data-start="485">
+<li data-end="586" data-start="485">
+<p data-end="586" data-start="487"><strong data-end="514" data-start="487">Refined &amp; Robust Design</strong>: 44mm zinc alloy + plastic case, 56g weight with IP67 water resistance.</p>
+</li>
+<li data-end="698" data-start="587">
+<p data-end="698" data-start="589"><strong data-end="615" data-start="589">Vibrant AMOLED Display</strong>: Sharp visuals on a 1.39" screen with brightness adjustment and always-on support.</p>
+</li>
+<li data-end="800" data-start="699">
+<p data-end="800" data-start="701"><strong data-end="729" data-start="701">Long Battery Performance</strong>: 5–7 days of regular use, 25–30 days standby with a quick 2-hour charge.</p>
+</li>
+<li data-end="1025" data-start="801">
+<p data-end="839" data-start="803"><strong data-end="838" data-start="803">Comprehensive Health Monitoring</strong>:</p>
+<ul data-end="1025" data-start="842">
+<li data-end="867" data-start="842">
+<p data-end="867" data-start="844">Heart Rate Monitoring</p>
+</li>
+<li data-end="897" data-start="870">
+<p data-end="897" data-start="872">Blood Pressure Tracking</p>
+</li>
+<li data-end="925" data-start="900">
+<p data-end="925" data-start="902">SpO2 Level Monitoring</p>
+</li>
+<li data-end="946" data-start="928">
+<p data-end="946" data-start="930">Sleep Tracking</p>
+</li>
+<li data-end="977" data-start="949">
+<p data-end="977" data-start="951">Menstrual Cycle Tracking</p>
+</li>
+<li data-end="1003" data-start="980">
+<p data-end="1003" data-start="982">Breathing Exercises</p>
+</li>
+<li data-end="1025" data-start="1006">
+<p data-end="1025" data-start="1008">Calorie Tracker</p>
+</li>
+</ul>
+</li>
+<li data-end="1113" data-start="1026">
+<p data-end="1113" data-start="1028"><strong data-end="1049" data-start="1028">120+ Sports Modes</strong>: Covers activities from running and cycling to yoga and beyond.</p>
+</li>
+<li data-end="1215" data-start="1114">
+<p data-end="1215" data-start="1116"><strong data-end="1139" data-start="1116">Smart Notifications</strong>: Stay updated with call alerts, messages, reminders, and app notifications.</p>
+</li>
+<li data-end="1308" data-start="1216">
+<p data-end="1308" data-start="1218"><strong data-end="1249" data-start="1218">Voice Assistant Integration</strong>: Compatible with voice assistants for hands-free commands.</p>
+</li>
+<li data-end="1406" data-start="1309">
+<p data-end="1406" data-start="1311"><strong data-end="1338" data-start="1311">Interactive Watch Faces</strong>: 13 dynamic faces, including 6 animated and full DIY customization.</p>
+</li>
+<li data-end="1478" data-start="1407">
+<p data-end="1478" data-start="1409"><strong data-end="1435" data-start="1409">Entertainment on Wrist</strong>: 1 built-in game ("Plane") for quick play.</p>
+</li>
+<li data-end="1608" data-start="1479">
+<p data-end="1608" data-start="1481"><strong data-end="1501" data-start="1481">Daily Essentials</strong>: Alarm, weather, flashlight, calculator, sedentary reminder, drink water prompt, camera control, and more.</p>
+</li>
+</ul>
+<h3 data-end="1644" data-start="1615">Specifications of Product</h3>
+<ul data-end="2296" data-start="1646">
+<li data-end="1701" data-start="1646">
+<p data-end="1701" data-start="1648"><strong data-end="1659" data-start="1648">Display</strong>: AMOLED, 1.39-inch, brightness adjustable</p>
+</li>
+<li data-end="1741" data-start="1702">
+<p data-end="1741" data-start="1704"><strong data-end="1715" data-start="1704">Battery</strong>: 400mAh lithium battery</p>
+</li>
+<li data-end="1798" data-start="1742">
+<p data-end="1798" data-start="1744"><strong data-end="1758" data-start="1744">Usage Time</strong>: 5–7 days regular, 25–30 days standby</p>
+</li>
+<li data-end="1845" data-start="1799">
+<p data-end="1845" data-start="1801"><strong data-end="1813" data-start="1801">Charging</strong>: 2 hours via magnetic suction</p>
+</li>
+<li data-end="1932" data-start="1846">
+<p data-end="1932" data-start="1848"><strong data-end="1859" data-start="1848">Sensors</strong>: Heart rate (HRS3605), SpO2, Blood pressure, Accelerometer (LIS2DOCTR)</p>
+</li>
+<li data-end="1980" data-start="1933">
+<p data-end="1980" data-start="1935"><strong data-end="1951" data-start="1935">Sports Modes</strong>: 120+ activities supported</p>
+</li>
+<li data-end="2067" data-start="1981">
+<p data-end="2067" data-start="1983"><strong data-end="1999" data-start="1983">Connectivity</strong>: Bluetooth 5.2, 20m range, supports calls, contacts, call records</p>
+</li>
+<li data-end="2126" data-start="2068">
+<p data-end="2126" data-start="2070"><strong data-end="2089" data-start="2070">Voice Assistant</strong>: Google Assistant, Siri compatible</p>
+</li>
+<li data-end="2152" data-start="2127">
+<p data-end="2152" data-start="2129"><strong data-end="2138" data-start="2129">Games</strong>: 1 built-in</p>
+</li>
+<li data-end="2265" data-start="2153">
+<p data-end="2265" data-start="2155"><strong data-end="2170" data-start="2155">Other Tools</strong>: Flashlight, alarm, weather, calculator, camera control, DND mode, motion gesture activation</p>
+</li>
+<li data-end="2296" data-start="2266">
+<p data-end="2296" data-start="2268"><strong data-end="2288" data-start="2268">Water Resistance</strong>: IP67</p>
+</li>
+</ul>
+<h3 data-end="2340" data-start="2303">Why Choose the Legacy Smartwatch?</h3>
+<p data-end="2688" data-start="2342">The Legacy <a href="https://zerolifestyle.co/pages/smart-watches">Smartwatch </a>is more than just a wearable — it’s a lifestyle upgrade. Designed with precision, equipped with cutting-edge features, and built to last, it’s the perfect companion for health tracking, productivity, and staying connected. Whether you're chasing goals or winding down, Legacy adapts to your day — strong, smart, and stylish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>legacy</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>platinum series products</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>Vision 2026</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10063563882774</id>
+      <title>Gold Black</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>20778</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10063563882774</id>
+      <title>Black Gold</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>20779</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10063563882774</id>
+      <title>Silver Blue</title>
+      <s:price currency="PKR">13999.00</s:price>
+      <s:sku>22173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10029347143958</id>
+    <published>2025-06-14T15:40:13+05:00</published>
+    <updated>2025-06-14T15:40:13+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/arcade-beast"/>
+    <title>Arcade Beast</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/ECOM_01.webp?v=1774945163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            5999.00 - 7999.00
+            <a href="https://zerolifestyle.co/products/arcade-beast">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-start="76" data-end="109">Arcade Beast by Zero Lifestyle</h2>
+<h3 data-start="111" data-end="134">Features of Product</h3>
+<h4 data-start="136" data-end="168">Sleek and Tactical Design</h4>
+<p data-start="169" data-end="293">Built for both performance and style, the <strong data-start="211" data-end="227">Arcade Beast</strong> earbuds come in four bold colorways—Black, Grey, Blue, and White.</p>
+<ul data-start="295" data-end="506">
+<li data-start="295" data-end="353">
+<p data-start="297" data-end="353"><strong data-start="297" data-end="315">Compact Build:</strong> Earbuds measure 34.3 × 20.4 × 20 mm</p>
+</li>
+<li data-start="354" data-end="422">
+<p data-start="356" data-end="422"><strong data-start="356" data-end="383">Portable Charging Case:</strong> Dimensions are 58.1 × 45.8 × 27.3 mm</p>
+</li>
+<li data-start="423" data-end="506">
+<p data-start="425" data-end="506"><strong data-start="425" data-end="441">Lightweight:</strong> Total weight of just 44.53 g ensures a snug and effortless fit</p>
+</li>
+</ul>
+<h3 data-start="513" data-end="557">Long Battery Life &amp; Efficient Charging</h3>
+<p data-start="558" data-end="640">Game, stream, and talk all day with powerful battery support and quick recharging.</p>
+<ul data-start="642" data-end="1086">
+<li data-start="642" data-end="694">
+<p data-start="644" data-end="694"><strong data-start="644" data-end="663">Total Playtime:</strong> Up to 30 hours of usage time</p>
+</li>
+<li data-start="695" data-end="760">
+<p data-start="697" data-end="760"><strong data-start="697" data-end="724">Single Charge Playback:</strong> Around 6 hours at moderate volume</p>
+</li>
+<li data-start="761" data-end="815">
+<p data-start="763" data-end="815"><strong data-start="763" data-end="781">Charging Time:</strong> Fully recharges in about 1 hour</p>
+</li>
+<li data-start="816" data-end="916">
+<p data-start="818" data-end="836"><strong data-start="818" data-end="834">Power Setup:</strong></p>
+<ul data-start="839" data-end="916">
+<li data-start="839" data-end="865">
+<p data-start="841" data-end="865">Type-C Input: DC 5V/1A</p>
+</li>
+<li data-start="868" data-end="892">
+<p data-start="870" data-end="892">Case Input Power: 5W</p>
+</li>
+<li data-start="895" data-end="916">
+<p data-start="897" data-end="916">Case Output: 1.2W</p>
+</li>
+</ul>
+</li>
+<li data-start="917" data-end="1051">
+<p data-start="919" data-end="939"><strong data-start="919" data-end="937">Battery Specs:</strong></p>
+<ul data-start="942" data-end="1051">
+<li data-start="942" data-end="960">
+<p data-start="944" data-end="960">Earbuds: 40mAh</p>
+</li>
+<li data-start="963" data-end="979">
+<p data-start="965" data-end="979">Case: 400mAh</p>
+</li>
+<li data-start="982" data-end="1051">
+<p data-start="984" data-end="1051">Battery Manufacturer: Golden Universe / Henan Wanli / Hunan Lirui</p>
+</li>
+</ul>
+</li>
+<li data-start="1052" data-end="1086">
+<p data-start="1054" data-end="1086"><strong data-start="1054" data-end="1071">Standby Time:</strong> Up to 40 hours</p>
+</li>
+</ul>
+<h3 data-start="1093" data-end="1129">Seamless Wireless Connectivity</h3>
+<p data-start="1130" data-end="1204">Stay connected with ultra-reliable Bluetooth and real-time responsiveness.</p>
+<ul data-start="1206" data-end="1600">
+<li data-start="1206" data-end="1269">
+<p data-start="1208" data-end="1269"><strong data-start="1208" data-end="1230">Bluetooth Version:</strong> V5.4 for faster, more stable pairing</p>
+</li>
+<li data-start="1270" data-end="1332">
+<p data-start="1272" data-end="1332"><strong data-start="1272" data-end="1295">Connectivity Range:</strong> Operates smoothly within 10 meters</p>
+</li>
+<li data-start="1333" data-end="1422">
+<p data-start="1335" data-end="1422"><strong data-start="1335" data-end="1364">Personalized Device Name:</strong> Recognized as “<meta charset="utf-8"><strong data-start="211" data-end="227">Arcade Beast</strong>”</p>
+</li>
+<li data-start="1333" data-end="1422">
+<p data-start="1335" data-end="1422"><strong data-start="1425" data-end="1448">Advanced Protocols:</strong> A2DP 1.4, AVRCP 1.6.2, HFP 1.7.2, and more</p>
+</li>
+<li data-start="1494" data-end="1600">
+<p data-start="1496" data-end="1517"><strong data-start="1496" data-end="1515">Smart Features:</strong></p>
+<ul data-start="1520" data-end="1600">
+<li data-start="1520" data-end="1536">
+<p data-start="1522" data-end="1536">Auto Pairing</p>
+</li>
+<li data-start="1539" data-end="1556">
+<p data-start="1541" data-end="1556">Popup Pairing</p>
+</li>
+<li data-start="1559" data-end="1573">
+<p data-start="1561" data-end="1573">Hyper Sync</p>
+</li>
+<li data-start="1576" data-end="1600">
+<p data-start="1578" data-end="1600">Master-Slave Switching</p>
+</li>
+</ul>
+</li>
+</ul>
+<h3 data-start="1607" data-end="1646">Smart Controls &amp; Voice Activation</h3>
+<p data-start="1647" data-end="1700">Take control with effortless taps and voice commands.</p>
+<ul data-start="1702" data-end="1944">
+<li data-start="1702" data-end="1794">
+<p data-start="1704" data-end="1794"><strong data-start="1704" data-end="1724">Voice Assistant:</strong> Activate Siri or Google Assistant with four taps on the left earbud</p>
+</li>
+<li data-start="1795" data-end="1865">
+<p data-start="1797" data-end="1865"><strong data-start="1797" data-end="1819">Touch Interaction:</strong> Fully responsive interface for easy control</p>
+</li>
+<li data-start="1866" data-end="1944">
+<p data-start="1868" data-end="1944"><strong data-start="1868" data-end="1899">Quick Pairing &amp; Smart Sync:</strong> Pair instantly without digging into settings</p>
+</li>
+</ul>
+<h3 data-start="1951" data-end="1985">Immersive Audio &amp; Durability</h3>
+<p data-start="1986" data-end="2038">Engineered for powerful sound clarity and endurance.</p>
+<ul data-start="2040" data-end="2233">
+<li data-start="2040" data-end="2116">
+<p data-start="2042" data-end="2116"><strong data-start="2042" data-end="2062">Driver Platform:</strong> Powered by JL 7006F8 chip for clean, balanced audio</p>
+</li>
+<li data-start="2117" data-end="2152">
+<p data-start="2119" data-end="2152"><strong data-start="2119" data-end="2136">Audio Format:</strong> SBC supported</p>
+</li>
+<li data-start="2153" data-end="2233">
+<p data-start="2155" data-end="2233"><strong data-start="2155" data-end="2176">Water Resistance:</strong> Splash-ready for daily wear (IPX rating not specified)</p>
+</li>
+</ul>
+<h3 data-start="2240" data-end="2269">Specifications of Product</h3>
+<ul data-start="2271" data-end="2582">
+<li data-start="2271" data-end="2317">
+<p data-start="2273" data-end="2317"><strong data-start="2273" data-end="2295">Earbud Dimensions:</strong> 34.3 × 20.4 × 20 mm</p>
+</li>
+<li data-start="2318" data-end="2373">
+<p data-start="2320" data-end="2373"><strong data-start="2320" data-end="2349">Charging Case Dimensions:</strong> 58.1 × 45.8 × 27.3 mm</p>
+</li>
+<li data-start="2374" data-end="2403">
+<p data-start="2376" data-end="2403"><strong data-start="2376" data-end="2393">Total Weight:</strong> 44.53 g</p>
+</li>
+<li data-start="2404" data-end="2433">
+<p data-start="2406" data-end="2433"><strong data-start="2406" data-end="2424">Charging Time:</strong> 1 hour</p>
+</li>
+<li data-start="2434" data-end="2465">
+<p data-start="2436" data-end="2465"><strong data-start="2436" data-end="2458">Bluetooth Version:</strong> V5.4</p>
+</li>
+<li data-start="2466" data-end="2521">
+<p data-start="2468" data-end="2521"><strong data-start="2468" data-end="2489">Battery Capacity:</strong> 40mAh (earbud), 400mAh (case)</p>
+</li>
+<li data-start="2522" data-end="2582">
+<p data-start="2524" data-end="2582"><strong data-start="2524" data-end="2542">Playback Time:</strong> 6 hours (single charge), 30 hours total</p>
+</li>
+</ul>
+<h3 data-start="2589" data-end="2609">Package Includes</h3>
+<ul data-start="2611" data-end="2716">
+<li data-start="2611" data-end="2650">
+<p data-start="2613" data-end="2650">Arcade Beast Earbuds (Left &amp; Right)</p>
+</li>
+<li data-start="2651" data-end="2668">
+<p data-start="2653" data-end="2668">Charging Case</p>
+</li>
+<li data-start="2669" data-end="2692">
+<p data-start="2671" data-end="2692">Replaceable Eartips</p>
+</li>
+<li data-start="2693" data-end="2716">
+<p data-start="2695" data-end="2716">Type-C Charging Cable</p>
+</li>
+</ul>
+<h3 data-start="2723" data-end="2751">Why Choose Arcade Beast?</h3>
+<p data-start="2753" data-end="3019">Level up your lifestyle with <strong data-start="2782" data-end="2798">Arcade Beast</strong>—a bold fusion of form, power, and real-time audio performance. Built for gamers, streamers, and go-getters, these earbuds are your companion for every battle, beat drop, and call. Plug in. Lock on. Beast Mode: Activated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arcade Series</s:tag>
+    <s:tag>beast</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Gaming Earbuds</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>secret</s:tag>
+    <s:tag>secret-500</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10029347143958</id>
+      <title>Stealth Black</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22932</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10029347143958</id>
+      <title>Thunder Blue</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22936</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10029347143958</id>
+      <title>Convert White</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22934</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10029347143958</id>
+      <title>Gaming black</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>25001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9985435992342</id>
+    <published>2025-05-26T15:00:33+05:00</published>
+    <updated>2025-05-26T15:00:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/orbit-2"/>
+    <title>Orbit 2 Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/silver_4_35749c97-d365-44fc-aa24-b7b94532fa1a.webp?v=1776755793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            6999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-end="159" data-start="117">Orbit 2 Smartwatch by Zero Lifestyle</h3>
+<h4 data-end="187" data-start="161">Features of Product</h4>
+<p data-end="361" data-start="189"><strong data-end="217" data-start="189">Sleek and Durable Design</strong><br data-end="220" data-start="217">The Orbit 2 Smartwatch is crafted to match both style and function, featuring a 1.38-inch round TFT screen with a sharp 240×240 resolution.</p>
+<ul data-end="705" data-start="362">
+<li data-end="495" data-start="362">
+<p data-end="495" data-start="364"><strong data-end="382" data-start="364">Premium Build:</strong> Zinc alloy middle frame, PC plastic bottom case, and anti-static silicone strap ensure durability and comfort.</p>
+</li>
+<li data-end="577" data-start="496">
+<p data-end="577" data-start="498"><strong data-end="521" data-start="498">Compact Dimensions:</strong> Designed for a perfect wrist fit without adding bulk.</p>
+</li>
+<li data-end="705" data-start="578">
+<p data-end="705" data-start="580"><strong data-end="606" data-start="580">IP68 Water Resistance:</strong> Withstands daily splashes, sweat, and rain, making it ideal for workouts and outdoor adventures.</p>
+</li>
+</ul>
+<p data-end="820" data-start="712"><strong data-end="753" data-start="712">Powerful Battery &amp; Efficient Charging</strong><br data-end="756" data-start="753">Stay powered through busy days with a reliable battery system.</p>
+<ul data-end="1063" data-start="821">
+<li data-end="897" data-start="821">
+<p data-end="897" data-start="823"><strong data-end="840" data-start="823">Extended Use:</strong> 5–7 days of working time and up to 15 days on standby.</p>
+</li>
+<li data-end="956" data-start="898">
+<p data-end="956" data-start="900"><strong data-end="919" data-start="900">Quick Recharge:</strong> Fully charges in just 2.5–3 hours.</p>
+</li>
+<li data-end="1063" data-start="957">
+<p data-end="1063" data-start="959"><strong data-end="980" data-start="959">Reliable Battery:</strong> 220mAh polymer battery with Seiko board protection for long-lasting performance.</p>
+</li>
+</ul>
+<p data-end="1182" data-start="1070"><strong data-end="1104" data-start="1070">Seamless Wireless Connectivity</strong><br data-end="1107" data-start="1104">Enjoy smooth pairing and stable connections for all your smart functions.</p>
+<ul data-end="1435" data-start="1183">
+<li data-end="1271" data-start="1183">
+<p data-end="1271" data-start="1185"><strong data-end="1214" data-start="1185">Latest Bluetooth Version:</strong> Equipped with BLE 5.3 for fast, reliable transmission.</p>
+</li>
+<li data-end="1335" data-start="1272">
+<p data-end="1335" data-start="1274"><strong data-end="1293" data-start="1274">Generous Range:</strong> Maintains connectivity up to 10 meters.</p>
+</li>
+<li data-end="1435" data-start="1336">
+<p data-end="1435" data-start="1338"><strong data-end="1362" data-start="1338">Smart Notifications:</strong> Stay on top of calls, messages, and app alerts directly on your wrist.</p>
+</li>
+</ul>
+<p data-end="1551" data-start="1442"><strong data-end="1480" data-start="1442">Advanced Health &amp; Fitness Tracking</strong><br data-end="1483" data-start="1480">Take charge of your health with comprehensive monitoring features.</p>
+<ul data-end="1956" data-start="1552">
+<li data-end="1595" data-start="1552">
+<p data-end="1595" data-start="1554"><strong data-end="1593" data-start="1554">Heart Rate Monitoring (LC09 Sensor)</strong></p>
+</li>
+<li data-end="1649" data-start="1596">
+<p data-end="1649" data-start="1598"><strong data-end="1647" data-start="1598">Blood Oxygen (SpO₂) &amp; Blood Pressure Tracking</strong></p>
+</li>
+<li data-end="1688" data-start="1650">
+<p data-end="1688" data-start="1652"><strong data-end="1686" data-start="1652">Sleep Monitoring (22:00–08:00)</strong></p>
+</li>
+<li data-end="1730" data-start="1689">
+<p data-end="1730" data-start="1691"><strong data-end="1728" data-start="1691">Breath Training &amp; Stress Function</strong></p>
+</li>
+<li data-end="1791" data-start="1731">
+<p data-end="1791" data-start="1733"><strong data-end="1789" data-start="1733">Pedometer, Calories, Sedentary &amp; Hydration Reminders</strong></p>
+</li>
+<li data-end="1872" data-start="1792">
+<p data-end="1872" data-start="1794"><strong data-end="1813" data-start="1794">8 Sports Modes:</strong> Including walking, running, cycling, swimming, and more.</p>
+</li>
+<li data-end="1956" data-start="1873">
+<p data-end="1956" data-start="1875"><strong data-end="1899" data-start="1875">GPS Motion Tracking:</strong> Via connected mobile app for precise activity mapping.</p>
+</li>
+</ul>
+<p data-end="2054" data-start="1963"><strong data-end="1997" data-start="1963">Smart Controls &amp; Customization</strong><br data-end="2000" data-start="1997">Packed with features that make everyday life easier.</p>
+<ul data-end="2419" data-start="2055">
+<li data-end="2105" data-start="2055">
+<p data-end="2105" data-start="2057"><strong data-end="2103" data-start="2057">Bluetooth Phone Calls &amp; AI Voice Assistant</strong></p>
+</li>
+<li data-end="2136" data-start="2106">
+<p data-end="2136" data-start="2108"><strong data-end="2134" data-start="2108">Camera &amp; Music Control</strong></p>
+</li>
+<li data-end="2183" data-start="2137">
+<p data-end="2183" data-start="2139"><strong data-end="2181" data-start="2139">Weather Forecast (Today + Next 6 Days)</strong></p>
+</li>
+<li data-end="2244" data-start="2184">
+<p data-end="2244" data-start="2186"><strong data-end="2205" data-start="2186">DIY Watch Face:</strong> Customize with your favorite photos.</p>
+</li>
+<li data-end="2305" data-start="2245">
+<p data-end="2305" data-start="2247"><strong data-end="2303" data-start="2247">Stopwatch, Countdown Timer, Calculator, Split Screen</strong></p>
+</li>
+<li data-end="2392" data-start="2306">
+<p data-end="2392" data-start="2308"><strong data-end="2335" data-start="2308">Multi-Language Support:</strong> Including Arabic, German, Japanese, Chinese, and more.</p>
+</li>
+<li data-end="2419" data-start="2393">
+<p data-end="2419" data-start="2395"><strong data-end="2417" data-start="2395">Fun Gaming Feature</strong></p>
+</li>
+</ul>
+<h4 data-end="2458" data-start="2426">Specifications of Product</h4>
+<ul data-end="2671" data-start="2459">
+<li data-end="2505" data-start="2459">
+<p data-end="2505" data-start="2461"><strong data-end="2473" data-start="2461">Display:</strong> 1.38" TFT, 240×240 resolution</p>
+</li>
+<li data-end="2545" data-start="2506">
+<p data-end="2545" data-start="2508"><strong data-end="2520" data-start="2508">Battery:</strong> 220mAh polymer battery</p>
+</li>
+<li data-end="2580" data-start="2546">
+<p data-end="2580" data-start="2548"><strong data-end="2566" data-start="2548">Charging Time:</strong> 2.5–3 hours</p>
+</li>
+<li data-end="2607" data-start="2581">
+<p data-end="2607" data-start="2583"><strong data-end="2597" data-start="2583">Bluetooth:</strong> BLE 5.3</p>
+</li>
+<li data-end="2638" data-start="2608">
+<p data-end="2638" data-start="2610"><strong data-end="2631" data-start="2610">Water Resistance:</strong> IP68</p>
+</li>
+<li data-end="2671" data-start="2639">
+<p data-end="2671" data-start="2641"><strong data-end="2658" data-start="2641">Sports Modes:</strong> 8 built-in</p>
+</li>
+</ul>
+<h4 data-end="2701" data-start="2678">Package Includes</h4>
+<ul data-end="2759" data-start="2702">
+<li data-end="2724" data-start="2702">
+<p data-end="2724" data-start="2704">Orbit 2 Smartwatch</p>
+</li>
+<li data-end="2743" data-start="2725">
+<p data-end="2743" data-start="2727">Charging Cable</p>
+</li>
+<li data-end="2759" data-start="2744">
+<p data-end="2759" data-start="2746">User Manual</p>
+</li>
+</ul>
+<h3 data-end="2806" data-start="2766">Why Choose the Orbit 2 Smartwatch?</h3>
+<p data-end="3082" data-start="2807">Designed for modern, active lifestyles, the Orbit 2 <a href="https://zerolifestyle.co/pages/smart-watches">Smartwatches by Zero Lifestyle</a> blends advanced health monitoring, smart connectivity, and rugged durability. Whether you’re working out, staying productive, or just staying connected, the Orbit 2 is built to elevate your day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Funday Sale</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>limited</s:tag>
+    <s:tag>luxury</s:tag>
+    <s:tag>orbit-2</s:tag>
+    <s:tag>Productivity</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smart watch price in pakistan</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Gray Silver</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>23116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Black</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>22808</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Coffee</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>23108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Black Gold</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>23110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Marsala Gold</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>23112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9985435992342</id>
+      <title>Pink Golden</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>23114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9982571938070</id>
+    <published>2025-05-21T11:42:02+05:00</published>
+    <updated>2025-05-21T11:42:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/striker-earbuds"/>
+    <title>Striker Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/02_f028c409-29ec-4027-998a-1fc1e542b4b3.webp?v=1771065090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            5999.00 - 7999.00
+            <a href="https://zerolifestyle.co/products/striker-earbuds">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong>Striker Earbuds by Zero Lifestyle</strong></h1>
+<h2><strong>Features of Product</strong></h2>
+<h3><strong>Sleek and Dynamic Design</strong></h3>
+<p><span>Crafted for style and comfort, the Striker Earbuds are available in three bold color choices—Black, Green, and Camo.</span></p>
+<ul>
+<li>
+<p><span><strong>Compact Build:</strong> Earbuds measure 34.99 × 21.15 × 24.88 mm.</span></p>
+</li>
+<li>
+<p><span><strong>Portable Charging Case:</strong> Dimensions of 60.73 × 63.96 × 42.44 mm.</span></p>
+</li>
+<li>
+<p><span><strong>Lightweight:</strong> Total weight of just 48.9 g, ensuring a comfortable fit for extended use.</span></p>
+</li>
+</ul>
+<h3><strong>Long Battery Life &amp; Efficient Charging</strong></h3>
+<p><span>Enjoy uninterrupted performance with a robust battery setup.</span></p>
+<ul>
+<li>
+<p><span><strong>Extended Playtime:</strong> Up to 27.5 hours in total, with approximately 5.5 hours of continuous playback at 70% volume.</span></p>
+</li>
+<li>
+<p><span><strong>Fast Charging:</strong> Fully recharges in about 2 hours via a Type-C input (1W for the case, 0.5W output).</span></p>
+</li>
+<li>
+<p><span><strong>Reliable Batteries:</strong> Powered by Jingshan Yifan Energy Co., Ltd. with an earbud battery capacity of 35mAh and a case capacity of 400mAh.</span></p>
+</li>
+<li>
+<p><span><strong>Standby Duration:</strong> Earbuds last about 60 days; charging case lasts up to 120 days.</span></p>
+</li>
+</ul>
+<h3><strong>Seamless Wireless Connectivity</strong></h3>
+<p><span>Experience effortless pairing and uninterrupted listening.</span></p>
+<ul>
+<li>
+<p><span><strong>Latest Bluetooth Version:</strong> Equipped with <strong>Bluetooth V5.4</strong> for stable connections.</span></p>
+</li>
+<li>
+<p><span><strong>Reliable Range:</strong> Maintains connectivity within <strong>≥10 meters</strong>.</span></p>
+</li>
+<li>
+<p><span><strong>Hassle-Free Pairing:</strong> Supports <strong>automatic pairing</strong> for an effortless user experience.</span></p>
+</li>
+<li>
+<p><span><strong>Game Mode:</strong> Low-latency performance with <strong>65ms response time</strong> for immersive gaming.</span></p>
+</li>
+</ul>
+<h3><strong>Intuitive Touch &amp; Voice Controls</strong></h3>
+<p><span>Enjoy easy management with sensitive touch controls.</span></p>
+<ul>
+<li>
+<p><span><strong>Play/Pause:</strong> Single tap on either earbud.</span></p>
+</li>
+<li>
+<p><span><strong>Call Handling:</strong> Answer with a tap, double-tap to hang up, long press (2–3 seconds) to reject.</span></p>
+</li>
+<li>
+<p><span><strong>Voice Assistant Activation:</strong> Long press the <strong>left earbud</strong> (3 seconds) for Siri or Google Assistant.</span></p>
+</li>
+<li>
+<p><span><strong>Gaming Mode:</strong> Long press the <strong>right earbud</strong> (3 seconds) for a low-latency experience.</span></p>
+</li>
+<li>
+<p><span><strong>Factory Reset:</strong> Tap <strong>five times</strong> while pairing L &amp; R, then place them in the case and remove to confirm reset.</span></p>
+</li>
+</ul>
+<h3><strong>Superior Audio Experience</strong></h3>
+<p><span>Immerse yourself in powerful sound clarity.</span></p>
+<ul>
+<li>
+<p><span><strong>High-Quality Drivers:</strong> <strong>13mm audio drivers</strong> deliver a frequency range of <strong>20Hz–20kHz</strong>.</span></p>
+</li>
+<li>
+<p><span><strong>Optimized Sensitivity:</strong> <strong>111.5±3dB</strong> ensures balanced sound performance.</span></p>
+</li>
+<li>
+<p><span><strong>Clear Calls:</strong> Equipped with a <strong>2718 silicone microphone</strong> for superior voice capture.</span></p>
+</li>
+<li>
+<p><span><strong>AI ENC Technology:</strong> Enhances call noise reduction for crisp conversations.</span></p>
+</li>
+<li>
+<p><span><strong>Water Resistance:</strong> Certified <strong>IPX4</strong> for protection against splashes and light rain.</span></p>
+</li>
+</ul>
+<h2><strong>Specifications of Product</strong></h2>
+<ul>
+<li>
+<p><span><strong>Earbud Dimensions:</strong> 34.99 × 21.15 × 24.88 mm</span></p>
+</li>
+<li>
+<p><span><strong>Charging Case Dimensions:</strong> 60.73 × 63.96 × 42.44 mm</span></p>
+</li>
+<li>
+<p><span><strong>Total Weight:</strong> 48.9 g</span></p>
+</li>
+<li>
+<p><span><strong>Charging Time:</strong> About <strong>2 hours</strong></span></p>
+</li>
+<li>
+<p><span><strong>Bluetooth Version:</strong> <strong>V5.4</strong>, supports multiple protocols</span></p>
+</li>
+<li>
+<p><span><strong>Audio Decoding:</strong> <strong>SBC</strong></span></p>
+</li>
+<li>
+<p><span><strong>Microphone:</strong> Single MIC</span></p>
+</li>
+<li>
+<p><span><strong>Touch Control:</strong> Fully responsive interface</span></p>
+</li>
+</ul>
+<h2><strong>Package Includes</strong></h2>
+<ul>
+<li>
+<p><span><strong>Striker Earbuds (Left &amp; Right)</strong></span></p>
+</li>
+<li>
+<p><span><strong>Charging Case</strong></span></p>
+</li>
+<li>
+<p><span><strong>Replaceable Eartips</strong></span></p>
+</li>
+<li>
+<p><span><strong>Charging Cable</strong></span></p>
+</li>
+</ul>
+<h2><strong>Why Choose the Striker Earbuds?</strong></h2>
+<p><span>Designed for those who demand excellence, the Striker Earbuds by Zero Lifestyle bring together cutting-edge technology and a modern aesthetic. Whether you're making calls, gaming, or enjoying music, these earbuds are built to elevate your lifestyle.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>Arcade Series</s:tag>
+    <s:tag>army</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Gaming Earbuds</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>pubg</s:tag>
+    <s:tag>Striker</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9982571938070</id>
+      <title>Gaming Black</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>24765</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9982571938070</id>
+      <title>Gaming Camou Beige</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>24763</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9982571938070</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22916</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9982571938070</id>
+      <title>Camou Beige</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22942</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9982571938070</id>
+      <title>Camou Gray</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22917</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9982571938070</id>
+      <title>Gaming Camou Gray</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>24764</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9982571938070</id>
+      <title>Forest Green</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9982571938070</id>
+      <title>Gaming-Forest Green</title>
+      <s:price currency="PKR">7999.00</s:price>
+      <s:sku>24872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9971379798294</id>
+    <published>2025-05-06T12:19:54+05:00</published>
+    <updated>2025-05-06T12:19:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/storm"/>
+    <title>Storm Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/black_1_bdf97883-4dd7-4609-8119-aae71f0f5e9c.webp?v=1747123777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            6999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Features of Storm Headphones</h2>
+<h3>Extended Battery Life</h3>
+<p>The Storm Headphones are equipped with a robust 750mAh battery, delivering up to 70 hours of continuous playback at 60% volume and an impressive standby time of up to 6000 hours. A full recharge takes just 2–3 hours, ensuring your music experience remains uninterrupted.</p>
+<h3>Bluetooth 5.0 Connectivity</h3>
+<p>Experience seamless wireless audio with Bluetooth V5.0 technology, offering a stable connection within a 10-meter range. The dual pairing feature allows you to connect and switch effortlessly between two devices.</p>
+<h3>Simple Pairing Process</h3>
+<p>To pair, press and hold the Multi-Function Button (MFB) for 3 seconds until the LED indicator flashes red and blue, signaling pairing mode. Select "Storm" from your device's Bluetooth menu and enter “0000” if prompted. Once paired, the headphones will automatically reconnect to the device when in range.</p>
+<h3>Hands-Free Convenience</h3>
+<p>Control your music and calls with intuitive touch features. Play/pause, answer/reject calls, skip tracks, and adjust volume—all at your fingertips. Activate Siri or Google Assistant by holding the MFB for 2 seconds.</p>
+<h3>Wired Option Available</h3>
+<p>Switch to wired mode using a 3.5mm AUX cable to conserve battery. Inserting the cable disables wireless functions, offering greater versatility.</p>
+<h3>Audio Quality &amp; Calling</h3>
+<p>40mm drivers deliver dynamic sound with a frequency range of 20Hz–20KHz and 32Ω impedance. The built-in microphone with -38dB±3dB sensitivity ensures clear calls and voice assistant interaction.</p>
+<h3>Charging Indicator</h3>
+<p>Charging via micro-USB is straightforward. A red LED lights up while charging and turns off once the battery is fully charged.</p>
+<h2>Specifications of Product</h2>
+<ul>
+<li>
+<strong>Bluetooth Version:</strong> V5.0</li>
+<li>
+<strong>Bluetooth Range:</strong> Up to 10 meters</li>
+<li>
+<strong>Playtime:</strong> 70 hours (at 60% volume)</li>
+<li>
+<strong>Standby Time:</strong> 6000 hours</li>
+<li>
+<strong>Charging Time:</strong> 2–3 hours</li>
+<li>
+<strong>Battery Capacity:</strong> 750mAh</li>
+<li>
+<strong>Audio Drivers:</strong> 40mm</li>
+<li>
+<strong>Impedance:</strong> 32Ω</li>
+<li>
+<strong>Frequency Response:</strong> 20Hz–20KHz</li>
+<li>
+<strong>Voice Assistant Support:</strong> Yes (Siri / Google Assistant)</li>
+<li>
+<strong>AUX Support:</strong> Yes (3.5mm cable)</li>
+<li>
+<strong>Charging Indicator:</strong> Red LED</li>
+<li>
+<strong>Weight:</strong> 181g</li>
+<li>
+<strong>Colors:</strong> Black, Blue, Champagne</li>
+</ul>
+<h2>Why Choose Storm Headphones?</h2>
+<p>The Storm Headphones offer a powerful audio experience, extended battery life, dual Bluetooth connectivity, and smart touch controls in a sleek, stylish package. Whether you're streaming music, taking calls, or using voice assistants, these headphones adapt effortlessly to your lifestyle.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Funday Sale</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>Monsoon 1000</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>storm</s:tag>
+    <s:tag>Summer 1000</s:tag>
+    <s:tag>Summer 2000</s:tag>
+    <s:tag>Summer 500</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9971379798294</id>
+      <title>Black</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>22913</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9971379798294</id>
+      <title>Midnight Blue</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>24048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9971379798294</id>
+      <title>Blue</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>22914</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9971379798294</id>
+      <title>Red</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>24142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9971379798294</id>
+      <title>Beige</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>22912</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9971379798294</id>
+      <title>White</title>
+      <s:price currency="PKR">6999.00</s:price>
+      <s:sku>22915</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9908486340886</id>
+    <published>2025-04-05T14:47:34+05:00</published>
+    <updated>2025-04-05T14:47:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/edge-smartwatch"/>
+    <title>Edge Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/B1_218495a9-8f36-4abf-b51a-64671c0db56e.webp?v=1767865748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>The Edge Smartwatch</h1>
+<h2>Features of Product</h2>
+<ul>
+<li>
+<strong>Stylish and Durable Design:</strong> Lightweight construction (22g) with a sturdy PC+ABS finish.</li>
+<li>
+<strong>Vivid TFT Display:</strong> 1.83-inch screen with a resolution of 240×284 pixels.</li>
+<li>
+<strong>Long-Lasting Battery Life:</strong> 7–9 days of regular use and up to 35 days on standby. Quick charging in under 2.5 hours.</li>
+</ul>
+<h2>Health and Fitness Tracking</h2>
+<ul>
+<li>Heart Rate Monitoring</li>
+<li>SpO2 Level Measurement</li>
+<li>Sleep Tracking</li>
+<li>Breathe Training</li>
+<li>Menstrual Cycle Tracking</li>
+<li>Stress Management Tools</li>
+<li>Calories Burned Tracking</li>
+</ul>
+<h2>Stay Connected</h2>
+<ul>
+<li>Manage calls, messages, and notifications directly from your wrist.</li>
+<li>Camera Control for snapping moments.</li>
+<li>"Find Phone" feature for convenience.</li>
+</ul>
+<h2>Everyday Tools</h2>
+<ul>
+<li>Alarms, weather updates, flashlight, calculator, and motion gesture for screen activation.</li>
+<li>Sedentary, drink water, and hand wash reminders.</li>
+</ul>
+<h2>Specifications of Product</h2>
+<ul>
+<li>
+<strong>Display:</strong> 1.83-inch TFT screen with 240×284 resolution.</li>
+<li>
+<strong>Battery Life:</strong> 7–9 days regular use, 35 days on standby.</li>
+<li>
+<strong>Charging Time:</strong> Less than 2.5 hours.</li>
+<li>
+<strong>Water Resistance:</strong> IP68 rating for durability.</li>
+<li>
+<strong>Operating System:</strong> Compatible with Android 9+ and iOS 12+.</li>
+<li>
+<strong>Bluetooth Version:</strong> 5.3 with 10-meter transmission range.</li>
+</ul>
+<h2>Why Choose the Edge Smartwatch?</h2>
+<p>The Edge <a href="https://zerolifestyle.co/pages/smart-watches">Smartwatch </a>delivers a harmonious blend of functionality and style. With advanced health tracking, seamless connectivity, and practical everyday tools, it fits right into your lifestyle. Whether you're working, exercising, or relaxing, the Edge Smartwatch enhances every moment with its innovative features and long-lasting performance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>compare</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Edge</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>Monsoon 1000</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9908486340886</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22878</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9908486340886</id>
+      <title>Midnight Blue</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22879</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9908486340886</id>
+      <title>Gray</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22943</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9908486340886</id>
+      <title>Rose Pink</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22945</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9908486340886</id>
+      <title>Red Berry</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>22944</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9881070371094</id>
+    <published>2025-03-04T15:15:20+05:00</published>
+    <updated>2025-03-04T15:15:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/display-earbuds"/>
+    <title>Display Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/brown.webp?v=1741777839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            9999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Display Earbuds</h3>
+<p>Display Earbuds by Zero Lifestyle combine cutting-edge technology with sleek design, offering superior sound, unmatched comfort, and innovative smart features. Whether you’re looking to elevate your music, calls, or gaming experience, these earbuds are designed to meet every need, offering the ultimate in wireless freedom.</p>
+<h3>Features of Display Earbuds</h3>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Elegant Design Meets Everyday Comfort</strong>: Available in four stunning colors—Black, Blue, Green, and Champagne. Designed for a snug and secure fit, offering unmatched comfort even during extended use.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Immersive Sound Experience</strong>: High-definition audio decoding with a quad-microphone ENC system for premium sound quality in music and calls, even in noisy environments.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Interactive Smart Screen</strong>: Built into the charging case for easy browsing, managing, and customizing settings. Select wallpapers, music, set timers, and more on a single screen.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Onboard Storage</strong>: 100 minutes of onboard audio storage allows you to enjoy your favorite tracks anywhere, anytime, without a phone.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>All-Day Battery Life</strong>: 6 hours of playtime on a single charge, 30 hours total with the charging case. Fast-charging technology ensures a full charge in just 1 hour.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Seamless Wireless Connectivity</strong>: Bluetooth 5.4 with Popup Pairing, Auto-Pairing, and Hyper Sync technology for lag-free performance up to 10 meters.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Low-Latency Gaming Mode</strong>: Ultra-low latency of 50–60 ms for smooth and responsive gameplay.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Intuitive Touch Controls</strong>: Simple gestures for play/pause, volume control, skip tracks, activate Siri/Google Assistant, and enter Game Mode.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Built for Your Active Lifestyle</strong>: IPX4 water resistance rating for workouts, light rain, or everyday adventures.</p>
+<h3>Specifications of Display Earbuds</h3>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Colors</strong>: Black, Blue, Green, Champagne.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Audio</strong>: High-definition audio decoding, quad-microphone ENC system.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Battery Life</strong>: 6 hours playtime on a single charge, 30 hours total with case.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Charging Time</strong>: 1 hour.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Connectivity</strong>: Bluetooth 5.4, Popup Pairing, Auto-Pairing, Hyper Sync technology.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Interactive Screen</strong>: Settings customization, battery status check, wallpaper selection, music browsing, timers.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Touch Control</strong>: Play/pause, volume control, skip tracks, Siri/Google Assistant activation, Game Mode.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Waterproof Rating</strong>: IPX4.</p>
+<p style="margin-left: .5in; text-indent: -.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in;"><!-- [if !supportLists]--><span style="font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt 'Times New Roman';">         </span></span></span><!--[endif]--><span dir="LTR"></span><strong>Included Accessories</strong>: Display Earbuds, charging case with interactive smart screen, custom-fit eartips, USB charging cable.</p>
+<h3>Why Choose the Zero Lifestyle Display Earbuds?</h3>
+<p>The Display Earbuds by Zero Lifestyle combine premium performance with cutting-edge features and effortless style. Offering all-day comfort, hassle-free pairing, low-latency gaming, and a customizable smart screen, these earbuds are designed to enhance every moment of your day. Whether you’re streaming, gaming, or enjoying music on the go without your phone, the Display Earbuds provide the ultimate in wireless audio experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>3d</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Funday Sale</s:tag>
+    <s:tag>Gaming Earbuds</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>Monsoon 1000</s:tag>
+    <s:tag>Monsoon 2000</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>Productivity</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>secret</s:tag>
+    <s:tag>Summer 1000</s:tag>
+    <s:tag>Summer 2000</s:tag>
+    <s:tag>Summer 500</s:tag>
+    <s:tag>Vision 2026</s:tag>
+    <s:tag>vision-2025</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9881070371094</id>
+      <title>Metallic Black</title>
+      <s:price currency="PKR">9999.00</s:price>
+      <s:sku>23206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9881070371094</id>
+      <title>Metallic White</title>
+      <s:price currency="PKR">9999.00</s:price>
+      <s:sku>23204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9881070371094</id>
+      <title>Metallic Blue</title>
+      <s:price currency="PKR">9999.00</s:price>
+      <s:sku>23200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9881070371094</id>
+      <title>Metallic Green</title>
+      <s:price currency="PKR">9999.00</s:price>
+      <s:sku>23198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9881070371094</id>
+      <title>Metallic Beige</title>
+      <s:price currency="PKR">9999.00</s:price>
+      <s:sku>23202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9793242104086</id>
+    <published>2024-12-01T16:40:10+05:00</published>
+    <updated>2024-12-01T16:40:10+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/wave-neo-earbuds"/>
+    <title>Wave Neo Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/7_2.webp?v=1736756569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="flex max-w-full flex-col flex-grow">
+<div data-message-author-role="assistant" data-message-id="53542514-04a7-447c-b6a1-c81cd58127bc" dir="auto" class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5" data-message-model-slug="gpt-4o">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Meet the Wave Neo Earbuds, designed to blend advanced technology with stylish looks. They come in Moon Brown, Forest Green, Steel Gray, and Lilac Purple colors.</p>
+<h2><strong>Key Features:</strong></h2>
+<p>The Wave Neo Earbuds deliver great sound quality using Bluetooth 5.3. They support AAC and SBC audio formats and have dual microphones for clear calls. They're also built to resist water splashes (IPX4) and feature easy touch controls for quick pairing and voice assistant access. Gamers will appreciate their low delay of just 45 milliseconds. Plus, they offer up to 20 hours of total playtime with the charging case.</p>
+<h2><strong>Specs:</strong></h2>
+<ul>
+<li>
+<strong>Size and Weight:</strong> Earbuds: 33.5 x 21.3 x 23.5mm, Charging Case: 58.1 x 47.99 x 30.00mm, Weight: 38.2g</li>
+<li>
+<strong>Battery Life:</strong> Earbuds: 40mAh, Charging Case: 360mAh, Charging Time: 1.5 hours, Total Play Time: 20 hours, Playing Time: 6 hours, Standby Time: 40 hours</li>
+<li>
+<strong>Wireless Connectivity:</strong> Bluetooth 5.3, Range: 15 meters, Supports: HFP V1.5, A2DP V1.3, AVRCP V1.3, HID V1.0, Auto Pairing: Yes</li>
+<li>
+<strong>Functionality:</strong> Touch Control (with 7 sensitivity levels), Dual Silicon Microphone ENC for noise reduction, Audio Formats: SBC, AAC</li>
+</ul>
+<h2><strong>Why Choose Wave Neo:</strong></h2>
+<p>The Wave Neo Earbuds are all about great sound, stylish design, and user-friendly features. They're perfect for everyday listening or getting into your favorite games with minimal delay. With their sleek look and easy touch controls, these earbuds fit seamlessly into modern lifestyles, offering both performance and style in one package.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Funday Sale</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>wave-neo</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9793242104086</id>
+      <title>Black</title>
+      <s:price currency="PKR">3999.00</s:price>
+      <s:sku>22432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9793242104086</id>
+      <title>Forest Green</title>
+      <s:price currency="PKR">3999.00</s:price>
+      <s:sku>22641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9793242104086</id>
+      <title>Steel Gray</title>
+      <s:price currency="PKR">3999.00</s:price>
+      <s:sku>22639</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9793242104086</id>
+      <title>Lilac Purple</title>
+      <s:price currency="PKR">3999.00</s:price>
+      <s:sku>22640</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9738618241302</id>
+    <published>2024-10-14T19:11:03+05:00</published>
+    <updated>2024-10-14T19:11:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/wave-pro"/>
+    <title>Wave Pro Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Ecommerce-Image-1.webp?v=1729196999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            4499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="flex max-w-full flex-col flex-grow">
+<div data-message-model-slug="gpt-4o" class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5" dir="auto" data-message-id="53542514-04a7-447c-b6a1-c81cd58127bc" data-message-author-role="assistant">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>The Wave Pro Earbuds represent the next generation of in-ear audio, delivering an unparalleled HD sound experience with over 100 hours of playback time. As the industry's first powerhouse earbuds with such longevity, Wave Pro stands out with 5 dual-toned, soft matte finishes, seamlessly blending superior audio performance with cutting-edge style that perfectly matches your fashion sense.</p>
+<h2><strong>Key Features of Wave Pro</strong></h2>
+<p>The Wave Pro offers an industry-leading 100 hours of playback time, powered by 13mm Bass Drivers that deliver crystal-clear HD sound. Equipped with Quad Mic ENC, the earbuds ensure premium call quality and effective noise cancellation, even in noisy environments.</p>
+<p>With Bluetooth 5.3 and Insta-Pair technology, the Wave Pro connects to your device instantly, and a quick charge of just 10 minutes provides 120 minutes of playback. The lightweight, ergonomic design with rounded monochrome tips ensures all-day comfort, while the soft matte, dual-tone rubber finish adds both style and enhanced grip for easy carrying.</p>
+<p>The Wave Pro also features AI Voice Assistant with touch controls for seamless hands-free operation. Whether you're using "Hey Siri" for iOS or "Ok Google" for Android, activating your assistant is as easy as tapping or holding.</p>
+<h2><strong>Specifications of Wave Pro</strong></h2>
+<ul>
+<li>
+<strong>Mode</strong>: Quad Mic ENC</li>
+<li>
+<strong>Playback Time</strong>: 100 hours</li>
+<li>
+<strong>Drivers</strong>: 13mm Hyperbass™ Tech</li>
+<li>
+<strong>Bluetooth</strong>: 5.3</li>
+<li>
+<strong>Latency</strong>: Adaptive Low Latency</li>
+</ul>
+<h3><strong>Battery &amp; Charging</strong></h3>
+<ul>
+<li>
+<strong>Total Playback</strong>: 100 hours</li>
+<li>
+<strong>Fast Charging</strong>: 10-minute charge = 120 minutes of playtime</li>
+<li>
+<strong>Charging Port</strong>: USB-C</li>
+<li>
+<strong>Charging Indicator</strong>: Yes</li>
+</ul>
+<h3><strong>Noise Cancellation</strong></h3>
+<ul>
+<li>
+<strong>Mode</strong>: Quad Mic Environmental Noise Cancellation (ENC)</li>
+</ul>
+<h3><strong>Sound</strong></h3>
+<ul>
+<li>
+<strong>Driver Size</strong>: 13mm</li>
+<li>
+<strong>Audio Codecs</strong>: AAC, SBC</li>
+<li><strong>High-Fidelity Acoustics</strong></li>
+</ul>
+<h3><strong>Connectivity</strong></h3>
+<ul>
+<li>
+<strong>Bluetooth Version</strong>: 5.3</li>
+<li>
+<strong>Supported Profiles</strong>: A2DP, AVRCP, HFP, HSP</li>
+<li>
+<strong>Compatibility</strong>: Android &amp; iOS</li>
+</ul>
+<h3><strong>Water Resistance</strong></h3>
+<ul>
+<li><strong>IPX4</strong></li>
+</ul>
+<h3><strong>Additional Features</strong></h3>
+<ul>
+<li><strong>AI Voice Assistant</strong></li>
+<li><strong>Touch Controls</strong></li>
+<li><strong>Hyperbass™ Technology</strong></li>
+</ul>
+<h2><strong>Why Choose Wave Pro?</strong></h2>
+<p>The Wave Pro merges fast fashion with disruptive technology. Boasting the largest battery capacity in the industry, superior sound quality, and a sleek dual-tone matte finish, these earbuds are a perfect balance of performance and style. The Wave Pro isn’t just an accessory—it’s a reliable companion that elevates both your listening experience and your sense of style.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Funday Sale</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>Influencer Video</s:tag>
+    <s:tag>Monsoon 500</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>wave-pro</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9738618241302</id>
+      <title>Flame Orange Black</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>22481</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9738618241302</id>
+      <title>Ivory Gray</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>22539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9738618241302</id>
+      <title>Lilic Gray</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>22615</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9738618241302</id>
+      <title>Forest Green</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>22613</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9738618241302</id>
+      <title>Silver Metal</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>23070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/8566334816534</id>
+    <published>2024-10-11T11:04:32+05:00</published>
+    <updated>2024-10-11T11:04:32+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/z811-earbuds"/>
+    <title>Z 811 Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/811-white-1.webp?v=1733300591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            4499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meet your all day audio companion with the best selling Z811 Earbuds giving you upto 50 Hours of Playtime, IPX5 Water Resistance with Quad Mic ENC, giving you the best in class features in a sleek flip design.</p>
+<h2>Features of Z 811</h2>
+<p>Z811 Earbuds: Your Ultimate Audio Companion<br>Experience unparalleled sound quality and comfort with the Z811 earbuds.</p>
+<h3>Key Features:</h3>
+<p><strong>Long-Lasting Battery</strong>: Enjoy up to 50 hours of playtime on a single charge.<br><strong>Crystal-Clear Audio</strong>: Our 13mm bass drivers deliver exceptional HD sound quality, ensuring you hear every detail of your music.<br><strong>Noise Cancellation</strong>: With Quad Mic ENC, enjoy crystal-clear calls and meetings without background noise interference.<br><strong>Instant Connectivity</strong>: Our Bluetooth 5.3 technology ensures instant pairing with your device, so you can start listening right away.<br><strong>Quick Charging</strong>: Get 120 minutes of playtime in just 10 minutes with our fast-charging technology.<br><strong>Comfortable Fit</strong>: The Z811's lightweight and ergonomic design provide a comfortable fit for all-day wear.<br><strong>Durable Construction</strong>: Our IPX5 water resistance rating ensures your earbuds can withstand sweat and light rain.<br><strong>Stylish Design</strong>: Choose from our dual-toned soft matte rubber finish in multiple colors to match your style.<br><strong>AI Voice Assistant</strong>: Easily activate your device's AI voice assistant with simple touch controls or voice commands.<br><strong>Low Latency Gaming Mode</strong>: Experience lag-free gaming with our 40ms low latency mode.<br><strong>Breathing LED Lights</strong>: Add a touch of style with our breathing LED lights.<br>Upgrade your audio experience today with the Z811 earbuds.<br></p>
+<h2>Specifications of Z811<br>
+</h2>
+<ul>
+<li>Quad Mic ENC</li>
+<li>50 Hours Total Playback</li>
+<li>Bluetooth 5.3</li>
+<li>Adaptive Low Latency</li>
+</ul>
+<h3>
+<br>Battery &amp; Charging</h3>
+<ul>
+<li>Total Playback: 50 hours</li>
+<li>Fast Charging: 10min Charge = 120min Playtime Charging Port: C-type</li>
+<li>Charging Indicator: Yes</li>
+</ul>
+<h3>Noise Cancellation</h3>
+<ul>
+<li>Mode Quad Mic Environmental Noise Cancellation</li>
+</ul>
+<h3>Sound</h3>
+<ul>
+<li>Driver: 13mm Audio codec: AAC, SBC High Fidelity Acosutics</li>
+</ul>
+<h3>Connectivity</h3>
+<ul>
+<li>BT Version: 5.3 BT supported profile: A2DP, AVRCP, HFP, HSP Compatibility: Android &amp; iOS</li>
+</ul>
+<h3>Water resistance</h3>
+<ul>
+<li>IPX5</li>
+</ul>
+<h3>Added Features</h3>
+<ul>
+<li>AI Voice Assistant</li>
+<li>Hyperbass™ Technology, 13mm Drivers | SBC, AAC Codec Supported<br>
+</li>
+</ul>
+<h2>Why Choose the Z811</h2>
+<p>The Z811 is the most reliable choice for your earbuds in the industry with a sleek design packed with audio leading features. It’s IPX5 Water Resistance ensures that your in-ear companion stays with you in every terrain with a battery life that lasts as long as you do!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>delivery</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>Influencer Video</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8566334816534</id>
+      <title>White</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>18544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/8566334816534</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">4499.00</s:price>
+      <s:sku>18510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/9601655537942</id>
+    <published>2024-09-11T13:19:46+05:00</published>
+    <updated>2024-09-11T13:19:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/carbon-earbuds"/>
+    <title>Carbon Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/JX98-01.webp?v=1765806286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            2999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carbon Earbuds with super loud sound and Environmental Noise Cancellation</p>
+<h2>Carbon Earbuds Product Description</h2>
+<p>Discover unparalleled sound quality with Carbon Earbuds. These earbuds are designed for those who seek both high-performance audio and comfort. Ideal for any activity, Carbon Earbuds deliver an outstanding listening experience whether you're on the go or at home.</p>
+<h2>Features of Carbon Earbuds</h2>
+<p>Carbon Earbuds provide rich, immersive sound with enhanced bass and clear treble. With built-in noise reduction, you can enjoy your music without interruption.</p>
+<p>The lightweight and ergonomic design ensures a secure and comfortable fit, while touch controls allow for easy music and call management. The long-lasting battery life ensures you stay connected longer, and the sleek charging case provides additional power for extended use.</p>
+<h2>Specifications of Carbon Earbuds</h2>
+<p>Bluetooth Version: 5.0</p>
+<p>Battery Life: Up to 7 hours (up to 28 hours with charging case)</p>
+<p>Charging Time: 1.5 hours</p>
+<p>Noise Cancellation: Yes</p>
+<p>Waterproof Rating: IPX5</p>
+<p>Dimensions: 47 x 39 x 11 mm</p>
+<p>Weight: 50g (with case)</p>
+<p>Battery Life: Up to 10 days</p>
+<p>Compatible with: iOS and Android</p>
+<h2>Why Choose the Carbon Earbuds?</h2>
+<p>Quantum Earbuds provide exceptional sound quality and comfort, making them the perfect choice for any audio lover. With advanced features like noise cancellation and long battery life, these earbuds stand out in the market. The sleek and modern design adds a touch of style to your audio experience, making them suitable for any setting. Plus, our dedicated customer support ensures you have a smooth experience from purchase to everyday use.<br><br></p>
+<h2>Do you have any ongoing sales?</h2>
+<p>Yes! Take advantage of our <a href="https://zerolifestyle.co/pages/11-11-sale">11.11 Sale</a> for exclusive discounts on smartwatches and earbuds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>defence-earbuds</s:tag>
+    <s:tag>earbuds</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>jinnah-sale</s:tag>
+    <s:tag>limited</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Summer 500</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9601655537942</id>
+      <title>Black</title>
+      <s:price currency="PKR">2999.00</s:price>
+      <s:sku>20392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9601655537942</id>
+      <title>Dark Green</title>
+      <s:price currency="PKR">2999.00</s:price>
+      <s:sku>20482</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/9601655537942</id>
+      <title>Light Gray</title>
+      <s:price currency="PKR">2999.00</s:price>
+      <s:sku>20480</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

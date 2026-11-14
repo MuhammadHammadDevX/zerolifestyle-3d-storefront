@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://zerolifestyle.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://zerolifestyle.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://zerolifestyle.co/collections/speakers.atom"/>
+  <title>ZeroLifestyle.co</title>
+  <updated>2026-03-27T17:27:23+05:00</updated>
+  <author>
+    <name>ZeroLifestyle.co</name>
+  </author>
+  <entry>
+    <id>https://zerolifestyle.co/products/10398108582166</id>
+    <published>2026-03-27T17:27:23+05:00</published>
+    <updated>2026-03-27T17:27:23+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/thunder-speaker"/>
+    <title>Thunder Pro Speaker</title>
+    <s:type>Speaker</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Thunder_Black01.webp?v=1774944134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Speaker<br>
+        <strong>Price: </strong>
+            39999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="162" data-end="430">Turn up the energy with the <strong data-start="190" data-end="209">Thunder Speaker</strong>, built to deliver powerful sound in a compact, stylish body. Designed for music lovers who want loud, clear audio on the go, the Thunder Speaker is perfect for indoor hangouts, outdoor gatherings, and everyday listening.</p>
+<p data-start="432" data-end="719">With deep bass output, stable Bluetooth connectivity, and long-lasting battery performance, the Thunder Speaker keeps your playlists alive without interruptions. Its durable build and easy controls make it a reliable companion whether you’re chilling at home or heading out with friends.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>extra-off</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>Speaker</s:tag>
+    <s:tag>thunder-pro</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10398108582166</id>
+      <title>Black</title>
+      <s:price currency="PKR">39999.00</s:price>
+      <s:sku>23304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10398108582166</id>
+      <title>Camou Grey</title>
+      <s:price currency="PKR">39999.00</s:price>
+      <s:sku>24003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

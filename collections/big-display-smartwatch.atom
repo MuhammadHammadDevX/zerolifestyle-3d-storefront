@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://zerolifestyle.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://zerolifestyle.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://zerolifestyle.co/collections/big-display-smartwatch.atom"/>
+  <title>ZeroLifestyle.co</title>
+  <updated>2026-02-28T18:13:16+05:00</updated>
+  <author>
+    <name>ZeroLifestyle.co</name>
+  </author>
+  <entry>
+    <id>https://zerolifestyle.co/products/10421921513750</id>
+    <published>2026-02-28T18:13:16+05:00</published>
+    <updated>2026-02-28T18:13:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/bolt-pro"/>
+    <title>Bolt Pro Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/Bolt_Black-1.webp?v=1775288200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-end="200" data-start="160">Bolt Pro Smartwatch – Product Description</h2>
+<p data-start="104" data-end="348">The ZERO BOLT PRO is a sleek and feature-rich smartwatch designed for everyday fitness, connectivity, and convenience. With its modern square dial and vibrant display, it delivers both style and smart functionality in one powerful wearable.</p>
+<h3 data-start="350" data-end="366">Key Features</h3>
+<ul data-start="368" data-end="1365">
+<li data-start="368" data-end="451">
+<p data-start="370" data-end="451"><strong data-start="370" data-end="394">1.83" IPS HD Display</strong> – Large, bright screen for clear and immersive viewing</p>
+</li>
+<li data-start="452" data-end="539">
+<p data-start="454" data-end="539"><strong data-start="454" data-end="487">Single Chip Bluetooth Calling</strong> – Make and receive calls directly from your watch</p>
+</li>
+<li data-start="540" data-end="611">
+<p data-start="542" data-end="611"><strong data-start="542" data-end="562">100+ Watch Faces</strong> – Personalize your display to match your style</p>
+</li>
+<li data-start="612" data-end="685">
+<p data-start="614" data-end="685"><strong data-start="614" data-end="635">100+ Sports Modes</strong> – Track a wide range of workouts and activities</p>
+</li>
+<li data-start="686" data-end="750">
+<p data-start="688" data-end="750"><strong data-start="688" data-end="721">Dynamic Heart Rate Monitoring</strong> – Real-time heart tracking</p>
+</li>
+<li data-start="751" data-end="804">
+<p data-start="753" data-end="804"><strong data-start="753" data-end="772">SpO₂ Monitoring</strong> – Monitor blood oxygen levels</p>
+</li>
+<li data-start="805" data-end="878">
+<p data-start="807" data-end="878"><strong data-start="807" data-end="831">IP66 Water Resistant</strong> – Protection against dust and water splashes</p>
+</li>
+<li data-start="879" data-end="955">
+<p data-start="881" data-end="955"><strong data-start="881" data-end="915">Qibla Direction &amp; Prayer Times</strong> – Built-in Islamic lifestyle features</p>
+</li>
+<li data-start="956" data-end="1007">
+<p data-start="958" data-end="1007"><strong data-start="958" data-end="976">Tasbih Counter</strong> – Convenient digital counter</p>
+</li>
+<li data-start="1008" data-end="1075">
+<p data-start="1010" data-end="1075"><strong data-start="1010" data-end="1033">Smart Notifications</strong> – Receive call, message, and app alerts</p>
+</li>
+<li data-start="1076" data-end="1129">
+<p data-start="1078" data-end="1129"><strong data-start="1078" data-end="1095">Sync Contacts</strong> – Easy access to saved contacts</p>
+</li>
+<li data-start="1130" data-end="1182">
+<p data-start="1132" data-end="1182"><strong data-start="1132" data-end="1159">Voice Assistant Support</strong> – Hands-free control</p>
+</li>
+<li data-start="1183" data-end="1231">
+<p data-start="1185" data-end="1231"><strong data-start="1185" data-end="1203">Built-in Games</strong> – On-the-go entertainment</p>
+</li>
+<li data-start="1232" data-end="1289">
+<p data-start="1234" data-end="1289"><strong data-start="1234" data-end="1262">Alarm, Timer &amp; Stopwatch</strong> – Everyday utility tools</p>
+</li>
+<li data-start="1290" data-end="1365">
+<p data-start="1292" data-end="1365"><strong data-start="1292" data-end="1321">Up to 5 Days Battery Life</strong> – Reliable performance on a single charge</p>
+</li>
+</ul>
+<h3 data-start="1367" data-end="1389">Additional Details</h3>
+<ul data-start="1391" data-end="1555">
+<li data-start="1391" data-end="1417">
+<p data-start="1393" data-end="1417">3D Colorful Dynamic UI</p>
+</li>
+<li data-start="1418" data-end="1439">
+<p data-start="1420" data-end="1439">365 Days Warranty</p>
+</li>
+<li data-start="1440" data-end="1518">
+<p data-start="1442" data-end="1518">Compatible with the ZERO Health app (available on App Store &amp; Google Play)</p>
+</li>
+<li data-start="1519" data-end="1555">
+<p data-start="1521" data-end="1555">Magnetic charging cable included</p>
+</li>
+</ul>
+<p data-start="1557" data-end="1734" data-is-last-node="" data-is-only-node="">The ZERO BOLT PRO combines fitness tracking, smart connectivity, and practical lifestyle tools making it ideal for daily wear, workouts, and staying connected anytime, anywhere.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>bolt-pro</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>Qube</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10421921513750</id>
+      <title>Jet Black</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23892</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10421921513750</id>
+      <title>Vintage brown</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>24132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10421921513750</id>
+      <title>Graphite Mauve</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>24136</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10421921513750</id>
+      <title>Midnight Blue</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23813</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10421921513750</id>
+      <title>Pearl Grey</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>24134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerolifestyle.co/products/10418358845718</id>
+    <published>2026-02-22T00:38:56+05:00</published>
+    <updated>2026-02-22T00:38:56+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerolifestyle.co/products/qube-smartwatch"/>
+    <title>Qube Smartwatch</title>
+    <s:type>Smart Watch</s:type>
+    <s:vendor>ZeroLifestyle.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0722/8106/3702/files/CHAMPAGNE_01.webp?v=1773019308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZeroLifestyle.co<br>
+        <strong>Type: </strong>Smart Watch<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="202" data-end="489">Stay connected, active, and in control with the <strong data-start="250" data-end="269">Qube Smartwatch</strong>, designed to blend smart technology with everyday convenience. Featuring a vibrant full-touch display and a sleek, modern design, Qube keeps your notifications, fitness tracking, and health insights right on your wrist.</p>
+<p data-start="491" data-end="808">Built for daily performance, the Qube Smartwatch offers comprehensive health monitoring, smart notifications, and multiple sports modes to support your active lifestyle. Whether you're tracking workouts, managing calls, or monitoring your heart rate, Qube delivers reliable performance with long-lasting battery life.</p>
+<p data-start="810" data-end="967">With Bluetooth connectivity, intuitive controls, and a comfortable strap design, Qube is the perfect companion for work, workouts, and everything in between.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 10 Sale</s:tag>
+    <s:tag>11 11 Pair One</s:tag>
+    <s:tag>11 11 Pair Two</s:tag>
+    <s:tag>defence bestsellers</s:tag>
+    <s:tag>defence watches</s:tag>
+    <s:tag>Experience at Zero</s:tag>
+    <s:tag>Hot deals</s:tag>
+    <s:tag>Qube</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>smart watch</s:tag>
+    <s:tag>smart watch price</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10418358845718</id>
+      <title>Starlight Silver</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10418358845718</id>
+      <title>Black</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23814</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10418358845718</id>
+      <title>Gray Silver</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23890</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerolifestyle.co/products/10418358845718</id>
+      <title>Pink Rose</title>
+      <s:price currency="PKR">5999.00</s:price>
+      <s:sku>23889</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
